@@ -1,0 +1,202 @@
+{
+  "schema_version": 2,
+  "id": "9f3a7c1b4d2e",
+  "timestamp": "2026-05-25T18:09:00Z",
+  "query": "Hoe ontwikkelt de leefbaarheid in Schollevaar-Zuid?",
+  "summary": "De leefbaarheid in Schollevaar-Zuid laat een gemengd beeld zien. Volgens de bewonersenquête bleef de wijk in 2021 en 2023 behoren tot de laagst scorende wijken op het rapportcijfer voor de buurt in het algemeen, maar in 2023 is de algemene buurtevaluatie wel verbeterd en is ook de sociale cohesie minder zwak dan in 2021. Gemeentelijk beleid en budget laten zien dat Capelle juist op buitenruimte, mobiliteit en sociale cohesie inzet om zulke wijkverschillen te verkleinen.",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Ontwikkeling van de leefbaarheid in Schollevaar-Zuid"
+    },
+    {
+      "type": "prose",
+      "markdown": "De ontwikkeling van de leefbaarheid in Schollevaar-Zuid is de afgelopen jaren voorzichtig positief, maar het uitgangsniveau blijft kwetsbaar. In 2019 werd Schollevaar-Zuid al genoemd als een van de lager scorende wijken op het rapportcijfer voor de buurt in het algemeen. In 2021 lag dit rapportcijfer voor Schollevaar-Zuid op **7,0**, waarmee de wijk samen met Oostgaarde Noord onderaan stond. In 2023 bleef het wijkcijfer **7,0** en hoorde Schollevaar-Zuid opnieuw bij de laagst scorende wijken, maar de enquête meldt tegelijk expliciet dat de algemene evaluatie van de buurt in Schollevaar-Zuid sinds 2021 is verbeterd.",
+      "citations": ["c1", "c2", "c3"]
+    },
+    {
+      "type": "table",
+      "columns": [
+        {"key": "jaar", "label": "Jaar", "type": "year"},
+        {"key": "indicator", "label": "Indicator", "type": "string"},
+        {"key": "waarde", "label": "Waarde", "type": "number"},
+        {"key": "toelichting", "label": "Toelichting", "type": "string"}
+      ],
+      "data": [
+        {"jaar": 2021, "indicator": "Rapportcijfer buurt in het algemeen", "waarde": 7.0, "toelichting": "Laagste score, samen met Oostgaarde Noord"},
+        {"jaar": 2023, "indicator": "Rapportcijfer buurt in het algemeen", "waarde": 7.0, "toelichting": "Nog steeds een van de laagst scorende wijken"},
+        {"jaar": 2021, "indicator": "Schaalscore sociale cohesie", "waarde": 5.5, "toelichting": "Laagste score, samen met Oostgaarde Noord"},
+        {"jaar": 2023, "indicator": "Schaalscore sociale cohesie", "waarde": 5.9, "toelichting": "Verbetering ten opzichte van 2021"}
+      ],
+      "caption": "Kernindicatoren uit de bewonersenquête voor Schollevaar-Zuid.",
+      "citations": ["c2", "c3", "c4"]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Bewonersbeeld: verbetering, maar nog geen sterke wijkscore"
+    },
+    {
+      "type": "prose",
+      "markdown": "De bewonersenquête 2023 is het duidelijkst over de richting: de algemene evaluatie van de buurt is in Schollevaar-Zuid verbeterd. Tegelijk blijft de wijk op het rapportcijfer voor de buurt in het algemeen achter bij het gemeentelijk gemiddelde van **7,4**. Ook op sociale cohesie was Schollevaar-Zuid in 2021 nog een van de zwakste wijken met **5,5**; in 2023 is dat verbeterd naar **5,9**, waardoor de wijk niet langer in de allerlaagste categorie valt. Dat wijst op herstel in het sociale leefklimaat, maar nog niet op een structurele inhaalbeweging naar de best scorende wijken.",
+      "citations": ["c2", "c3", "c4"]
+    },
+    {
+      "type": "quote",
+      "markdown": "\"De schaalscore voor de algemene evaluatie van de buurt laat zien dat de situatie in Schenkel sinds 2021 ongunstiger werd, maar in Schollevaar Zuid verbeterde.\"",
+      "citation": "c3"
+    },
+    {
+      "type": "callout",
+      "tone": "insight",
+      "markdown": "De kern is dus niet dat Schollevaar-Zuid al een hoog gewaardeerde wijk is, maar dat de neerwaartse druk op leefbaarheid minder groot lijkt dan eerder. De wijk verbetert vanuit een relatief zwakke positie."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Veiligheid en leefomgeving als verklarende factoren"
+    },
+    {
+      "type": "prose",
+      "markdown": "De veiligheidsbeleving blijft een aandachtspunt in Schollevaar-Zuid. In de bewonersenquête 2019 en 2021 wordt de wijk meerdere keren genoemd bij relatief hoge aandelen bewoners die zich wel eens onveilig voelen of onveilige plekken vermijden. Ook in 2023 komt Schollevaar-Zuid terug in passages over onveiligheidsbeleving en onveilige verkeerssituaties. Dat helpt verklaren waarom de wijkscore op de buurt als geheel achterblijft, ook als het algemene oordeel zich iets herstelt.",
+      "citations": ["c1", "c2", "c3"]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wat doet de gemeente?"
+    },
+    {
+      "type": "prose",
+      "markdown": "De beleidsdocumenten laten zien dat Capelle leefbaarheid vooral benadert via de kwaliteit van de buitenruimte, verkeersveiligheid en maatschappelijke voorzieningen. In de begroting en jaarstukken van programma Verkeer, vervoer en waterstaat is de missie expliciet gericht op een \"schone, hele en veilige buitenruimte\" en op een balans tussen mobiliteit, leefbaarheid en verkeersveiligheid. Daarnaast noemt de voorjaarsnota 2024 maatschappelijke activiteiten een belangrijk onderdeel van de leefbaarheid en vitaliteit van Capelle, met sociale cohesie als expliciete invalshoek. Voor Schollevaar wordt bovendien in de voorjaarsnota verwezen naar een vastgoedplan voor de wijk, wat erop wijst dat de gemeente ook gebiedsgericht naar voorzieningen en ruimtegebruik kijkt.",
+      "citations": ["c5", "c6", "c7"]
+    },
+    {
+      "type": "table",
+      "columns": [
+        {"key": "jaar", "label": "Jaar", "type": "year"},
+        {"key": "doc_type", "label": "Documenttype", "type": "string"},
+        {"key": "document", "label": "Document", "type": "string"},
+        {"key": "score", "label": "Relevantie", "type": "number"}
+      ],
+      "data": [
+        {"jaar": 2021, "doc_type": "jaarstukken", "document": "programma-2-verkeer-vervoer-en-waterstaat", "score": 0.635},
+        {"jaar": 2021, "doc_type": "begroting", "document": "programma-2-verkeer-vervoer-en-waterstaat", "score": 0.633},
+        {"jaar": 2024, "doc_type": "voorjaarsnota", "document": "programma-6-sociaal-domein", "score": 0.621},
+        {"jaar": 2024, "doc_type": "voorjaarsnota", "document": "onderzoeksopdrachten", "score": 0.598}
+      ],
+      "caption": "Selectie van beleidsbronnen die leefbaarheid, buitenruimte, sociale cohesie en Schollevaar raken.",
+      "citations": ["c5", "c6", "c7"]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Budgetcontext"
+    },
+    {
+      "type": "prose",
+      "markdown": "De budgettrend ondersteunt dat leefbaarheid via de fysieke leefomgeving bestuurlijk prioriteit heeft. De lasten binnen het domein **Verkeer & Mobiliteit** stegen van **€ 7,8 miljoen** in 2019 naar **€ 11,0 miljoen** in 2023 en verder naar **€ 12,2 miljoen** in 2026. Dat betekent niet automatisch dat dit geld specifiek in Schollevaar-Zuid is geland, maar het past wel bij de beleidslijn waarin buitenruimte, verkeersveiligheid en leefbaarheid nauw met elkaar verbonden zijn.",
+      "citations": ["c8", "c5"]
+    },
+    {
+      "type": "chart",
+      "spec": {
+        "kind": "line",
+        "data": [
+          {"jaar": 2019, "lasten_k": 7815},
+          {"jaar": 2020, "lasten_k": 8639},
+          {"jaar": 2021, "lasten_k": 8746},
+          {"jaar": 2022, "lasten_k": 8910},
+          {"jaar": 2023, "lasten_k": 10977},
+          {"jaar": 2024, "lasten_k": 11874},
+          {"jaar": 2025, "lasten_k": 12153},
+          {"jaar": 2026, "lasten_k": 12220}
+        ],
+        "columns": [
+          {"key": "jaar", "label": "Jaar", "type": "year"},
+          {"key": "lasten_k", "label": "Lasten", "type": "number", "unit": "€k"}
+        ],
+        "x": "jaar",
+        "y": "lasten_k",
+        "title": "Lasten Verkeer & Mobiliteit in Capelle"
+      },
+      "caption": "Oplopende lasten in Verkeer & Mobiliteit, als brede budgetcontext voor leefbaarheid en buitenruimte.",
+      "citations": ["c8"]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Eindbeeld"
+    },
+    {
+      "type": "prose",
+      "markdown": "Per saldo ontwikkelt de leefbaarheid in Schollevaar-Zuid zich voorzichtig in de goede richting, maar nog niet sterk genoeg om de wijk uit de onderste regionen van Capelle te halen. De bewonerswaardering voor de buurt als geheel blijft laag in vergelijking met andere wijken, terwijl de sociale cohesie sinds 2021 wel aantrekt. De meest waarschijnlijke duiding is daarom: **verbetering binnen een kwetsbare wijk**, met aanhoudende aandachtspunten rond veiligheid, verkeerssituaties en kwaliteit van de leefomgeving. Voor beleid is Schollevaar-Zuid daarmee eerder een wijk van gestage herstelopgave dan een wijk waar de leefbaarheidsproblematiek al is opgelost.",
+      "citations": ["c2", "c3", "c4", "c5", "c7", "c8"]
+    }
+  ],
+  "citations": [
+    {
+      "id": "c1",
+      "source": "bewonersenquete",
+      "doc_type": "Bewonersenquête",
+      "document": "Schollevaar Zuid veiligheid en onveiligheidsbeleving",
+      "year": "2019"
+    },
+    {
+      "id": "c2",
+      "source": "bewonersenquete",
+      "doc_type": "Bewonersenquête",
+      "document": "Schollevaar Zuid buurt in het algemeen en sociale cohesie",
+      "year": "2021"
+    },
+    {
+      "id": "c3",
+      "source": "bewonersenquete",
+      "doc_type": "Bewonersenquête",
+      "document": "Schollevaar Zuid buurt in het algemeen en algemene buurtevaluatie",
+      "year": "2023"
+    },
+    {
+      "id": "c4",
+      "source": "bewonersenquete",
+      "doc_type": "Bewonersenquête",
+      "document": "Schollevaar Zuid sociale cohesie",
+      "year": "2023"
+    },
+    {
+      "id": "c5",
+      "source": "beleid",
+      "doc_type": "jaarstukken",
+      "document": "programma-2-verkeer-vervoer-en-waterstaat",
+      "year": "2021",
+      "source_url": "https://capelleaandenijssel.begrotingsapp.nl/jaarstukken-2021/programma/programma-2-verkeer-vervoer-en-waterstaat",
+      "score": 0.635
+    },
+    {
+      "id": "c6",
+      "source": "beleid",
+      "doc_type": "voorjaarsnota",
+      "document": "programma-6-sociaal-domein",
+      "year": "2024",
+      "source_url": "https://capelleaandenijssel.begrotingsapp.nl/voorjaarsnota-2024/programma/programma-6-sociaal-domein",
+      "score": 0.621
+    },
+    {
+      "id": "c7",
+      "source": "beleid",
+      "doc_type": "voorjaarsnota",
+      "document": "onderzoeksopdrachten",
+      "year": "2024",
+      "source_url": "https://capelleaandenijssel.begrotingsapp.nl/voorjaarsnota-2024/programma/onderzoeksopdrachten",
+      "score": 0.598
+    },
+    {
+      "id": "c8",
+      "source": "budget",
+      "doc_type": "Programma",
+      "document": "Verkeer & Mobiliteit",
+      "year": "2019-2026"
+    }
+  ]
+}

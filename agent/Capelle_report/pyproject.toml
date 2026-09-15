@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "capelle-report-tool"
+version = "0.1.0"
+requires-python = ">=3.11"
+# stdlib-only — no third-party dependencies.
+dependencies = []
+
+[project.scripts]
+capelle-report = "capelle_report_tool.report:main"
+capelle-ask = "capelle_report_tool.ask:main"
+capelle-graph = "capelle_report_tool.graph:main"
+
+[tool.setuptools]
+packages = ["capelle_report_tool"]

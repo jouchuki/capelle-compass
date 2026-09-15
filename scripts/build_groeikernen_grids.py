@@ -1,0 +1,199 @@
+#!/usr/bin/env python3
+"""Rasterize 6 Dutch groeikernen (planned 1970s new-towns) into small
+silhouette grids for the frontend's onboarding hero. Capelle aan den IJssel
+already has its own coloured wijk grid (see build_capelle_grid.py); these
+are the comparator thumbnails (no district coloring — just the gemeente
+shape).
+
+Source : PDOK OGC API — CBS Wijken en Buurten 2024 (gemeenten collection).
+Output : frontend/src/data/groeikernen.ts (TypeScript module).
+
+Usage:
+    curl -G "https://api.pdok.nl/cbs/wijken-en-buurten-2024/ogc/v1/collections/gemeenten/items" \\
+        --data-urlencode "f=json" --data-urlencode "limit=400" \\
+        -o /tmp/gtmp/all_gemeenten.json
+    python3 scripts/build_groeikernen_grids.py
+"""
+
+from __future__ import annotations
+
+import json
+import math
+from pathlib import Path
+
+SOURCE = Path('/tmp/gtmp/all_gemeenten.json')
+OUTPUT = Path(__file__).resolve().parents[1] / 'frontend' / 'src' / 'data' / 'groeikernen.ts'
+
+# Six other classic 1970s groeikernen. Capelle is rendered separately in
+# capelleWijken.ts so it is not in this list.
+TARGETS: list[tuple[str, str, str]] = [
+    # (slug, gemeentecode, label)
+    ('almere',     'GM0034', 'Almere'),
+    ('zoetermeer', 'GM0637', 'Zoetermeer'),
+    ('nieuwegein', 'GM0356', 'Nieuwegein'),
+    ('purmerend',  'GM0439', 'Purmerend'),
+    ('lelystad',   'GM0995', 'Lelystad'),
+    ('houten',     'GM0321', 'Houten'),
+]
+
+# Per-thumbnail grid dims. Same across all towns so the row of thumbs
+# reads as a consistent visual ladder, even though gemeente bboxes differ.
+COLS = 18
+ROWS = 18
+
+
+def point_in_ring(x: float, y: float, ring: list[list[float]]) -> bool:
+    inside = False
+    n = len(ring)
+    j = n - 1
+    for i in range(n):
+        xi, yi = ring[i][0], ring[i][1]
+        xj, yj = ring[j][0], ring[j][1]
+        intersect = ((yi > y) != (yj > y)) and (
+            x < (xj - xi) * (y - yi) / ((yj - yi) or 1e-12) + xi
+        )
+        if intersect:
+            inside = not inside
+        j = i
+    return inside
+
+
+def point_in_geometry(x: float, y: float, geometry: dict) -> bool:
+    gtype = geometry['type']
+    polys = [geometry['coordinates']] if gtype == 'Polygon' else geometry['coordinates']
+    for poly in polys:
+        if not poly:
+            continue
+        outer = poly[0]
+        if not point_in_ring(x, y, outer):
+            continue
+        in_hole = False
+        for hole in poly[1:]:
+            if point_in_ring(x, y, hole):
+                in_hole = True
+                break
+        if not in_hole:
+            return True
+    return False
+
+
+def bbox_of(geometry: dict) -> tuple[float, float, float, float]:
+    min_x = min_y = math.inf
+    max_x = max_y = -math.inf
+    polys = (
+        [geometry['coordinates']] if geometry['type'] == 'Polygon' else geometry['coordinates']
+    )
+    for poly in polys:
+        for ring in poly:
+            for x, y in ring:
+                if x < min_x:
+                    min_x = x
+                if y < min_y:
+                    min_y = y
+                if x > max_x:
+                    max_x = x
+                if y > max_y:
+                    max_y = y
+    return min_x, min_y, max_x, max_y
+
+
+def rasterize(geometry: dict) -> list[list[bool]]:
+    """Stretch the polygon's bbox to fill the COLS × ROWS grid (silhouette
+    only — we don't preserve aspect-ratio across thumbnails)."""
+    min_x, min_y, max_x, max_y = bbox_of(geometry)
+    # Tiny pad so edge cells don't drop out.
+    pad_x = (max_x - min_x) * 0.01
+    pad_y = (max_y - min_y) * 0.01
+    min_x -= pad_x
+    max_x += pad_x
+    min_y -= pad_y
+    max_y += pad_y
+    cell_w = (max_x - min_x) / COLS
+    cell_h = (max_y - min_y) / ROWS
+    grid: list[list[bool]] = [[False] * COLS for _ in range(ROWS)]
+    for row in range(ROWS):
+        y = max_y - (row + 0.5) * cell_h
+        for col in range(COLS):
+            x = min_x + (col + 0.5) * cell_w
+            grid[row][col] = point_in_geometry(x, y, geometry)
+    return grid
+
+
+def merge_features_for_gemeente(features: list[dict], gemeentecode: str) -> dict:
+    """A gemeente may appear in the feed multiple times (one feature per
+    enclave / mainland chunk). Merge their geometries into one MultiPolygon."""
+    polys: list[list] = []
+    for f in features:
+        if f['properties'].get('gemeentecode') != gemeentecode:
+            continue
+        g = f['geometry']
+        if g['type'] == 'Polygon':
+            polys.append(g['coordinates'])
+        elif g['type'] == 'MultiPolygon':
+            polys.extend(g['coordinates'])
+    if not polys:
+        raise SystemExit(f'No geometry found for {gemeentecode}.')
+    return {'type': 'MultiPolygon', 'coordinates': polys}
+
+
+def main() -> None:
+    if not SOURCE.exists():
+        raise SystemExit(f'Source file {SOURCE} not found. Fetch it first.')
+    payload = json.loads(SOURCE.read_text())
+    features = payload.get('features', [])
+
+    out_rows: list[str] = []
+    out_rows.append('// AUTO-GENERATED by scripts/build_groeikernen_grids.py — do not edit by hand.')
+    out_rows.append('// Source: PDOK OGC API — CBS Wijken en Buurten 2024 (gemeenten collection).')
+    out_rows.append('//')
+    out_rows.append('// Each grid is a COLS × ROWS boolean mask of the gemeente silhouette,')
+    out_rows.append('// stretched to fill its own bbox (aspect-ratio NOT preserved across towns).')
+    out_rows.append('')
+    out_rows.append(
+        'export type GroeikernSlug =\n  '
+        + '\n  | '.join(f"'{slug}'" for slug, _, _ in TARGETS)
+        + ';'
+    )
+    out_rows.append('')
+    out_rows.append('export interface GroeikernGrid {')
+    out_rows.append('  slug: GroeikernSlug;')
+    out_rows.append('  gemeentecode: string;')
+    out_rows.append('  label: string;')
+    out_rows.append('  cols: number;')
+    out_rows.append('  rows: number;')
+    out_rows.append('  /** Each cell: true = inside the gemeente, false = outside. */')
+    out_rows.append('  grid: readonly (readonly boolean[])[];')
+    out_rows.append('}')
+    out_rows.append('')
+    out_rows.append(f'export const GRID_COLS = {COLS};')
+    out_rows.append(f'export const GRID_ROWS = {ROWS};')
+    out_rows.append('')
+    out_rows.append('export const GROEIKERNEN: readonly GroeikernGrid[] = [')
+
+    for slug, gcode, label in TARGETS:
+        geometry = merge_features_for_gemeente(features, gcode)
+        grid = rasterize(geometry)
+        filled = sum(1 for r in grid for c in r if c)
+        out_rows.append('  {')
+        out_rows.append(f'    slug: {json.dumps(slug)},')
+        out_rows.append(f'    gemeentecode: {json.dumps(gcode)},')
+        out_rows.append(f'    label: {json.dumps(label)},')
+        out_rows.append(f'    cols: {COLS},')
+        out_rows.append(f'    rows: {ROWS},')
+        out_rows.append('    grid: [')
+        for row in grid:
+            cells = ', '.join('true' if c else 'false' for c in row)
+            out_rows.append(f'      [{cells}],')
+        out_rows.append('    ],')
+        out_rows.append('  },')
+        print(f'  {slug:<12} {gcode}  {label:<14}  filled={filled}/{COLS * ROWS}')
+    out_rows.append('];')
+    out_rows.append('')
+
+    OUTPUT.parent.mkdir(parents=True, exist_ok=True)
+    OUTPUT.write_text('\n'.join(out_rows))
+    print(f'Wrote {OUTPUT}')
+
+
+if __name__ == '__main__':
+    main()

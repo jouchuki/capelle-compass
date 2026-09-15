@@ -1,0 +1,91 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+
+  --color-blue-50: #eff6ff;
+  --color-blue-100: #dbeafe;
+  --color-blue-500: #3b82f6;
+  --color-blue-600: #2563eb;
+  --color-blue-700: #1d4ed8;
+
+  --color-slate-50: #f8fafc;
+  --color-slate-100: #f1f5f9;
+  --color-slate-200: #e2e8f0;
+  --color-slate-300: #cbd5e1;
+  --color-slate-400: #94a3b8;
+  --color-slate-500: #64748b;
+  --color-slate-600: #475569;
+  --color-slate-700: #334155;
+  --color-slate-800: #1e293b;
+  --color-slate-900: #111827;
+
+  /* Source palette (Capelle product) — preserved hexes, rendered as pastel chips on light bg. */
+  --color-source-cbs: #154273;
+  --color-source-beleid: #e17000;
+  --color-source-budget: #39870c;
+  --color-source-buitenbeter: #ca005d;
+  --color-source-bewonersenquete: #6366f1;
+  --color-source-platform: #64748b;
+  --color-source-jeugdzorg: #059669;
+
+  /* Semantic */
+  --color-success: #10b981;
+  --color-warn: #f59e0b;
+  --color-danger: #ef4444;
+}
+
+@layer base {
+  html, body {
+    @apply bg-white text-slate-900 font-sans antialiased;
+    min-height: 100vh;
+  }
+  #root {
+    min-height: 100vh;
+  }
+}
+
+@layer utilities {
+  .custom-scrollbar::-webkit-scrollbar { width: 4px; }
+  .custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
+  .custom-scrollbar::-webkit-scrollbar-thumb { background: #e5e7eb; border-radius: 10px; }
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover { background: #d1d5db; }
+
+  .artifact-shadow { box-shadow: 0 20px 40px -10px rgba(0, 0, 0, 0.05); }
+
+  .source-chip-cbs              { background: color-mix(in srgb, var(--color-source-cbs) 10%, white);              color: var(--color-source-cbs); border: 1px solid color-mix(in srgb, var(--color-source-cbs) 20%, white); }
+  .source-chip-beleid           { background: color-mix(in srgb, var(--color-source-beleid) 10%, white);           color: var(--color-source-beleid); border: 1px solid color-mix(in srgb, var(--color-source-beleid) 20%, white); }
+  .source-chip-budget           { background: color-mix(in srgb, var(--color-source-budget) 10%, white);           color: var(--color-source-budget); border: 1px solid color-mix(in srgb, var(--color-source-budget) 20%, white); }
+  .source-chip-buitenbeter      { background: color-mix(in srgb, var(--color-source-buitenbeter) 10%, white);      color: var(--color-source-buitenbeter); border: 1px solid color-mix(in srgb, var(--color-source-buitenbeter) 20%, white); }
+  .source-chip-bewonersenquete  { background: color-mix(in srgb, var(--color-source-bewonersenquete) 10%, white);  color: var(--color-source-bewonersenquete); border: 1px solid color-mix(in srgb, var(--color-source-bewonersenquete) 20%, white); }
+  .source-chip-platform         { background: color-mix(in srgb, var(--color-source-platform) 10%, white);         color: var(--color-source-platform); border: 1px solid color-mix(in srgb, var(--color-source-platform) 20%, white); }
+  .source-chip-jeugdzorg        { background: color-mix(in srgb, var(--color-source-jeugdzorg) 10%, white);        color: var(--color-source-jeugdzorg); border: 1px solid color-mix(in srgb, var(--color-source-jeugdzorg) 20%, white); }
+}
+
+/* Finding-graph edges (xyflow) carry content — the rationale shown in the
+   EdgePanel — so advertise the click affordance: pointer cursor plus a
+   thicker stroke on hover and while selected. The click target itself is
+   widened via xyflow's `interactionWidth` in GraphView. */
+.react-flow__edge { cursor: pointer; }
+.react-flow__edge:hover .react-flow__edge-path,
+.react-flow__edge.selected .react-flow__edge-path {
+  stroke-width: 2.5;
+}
+
+/* Markdown body — light theme. Scoped to .md-body. */
+.md-body { color: #334155; line-height: 1.65; }
+.md-body > * + * { margin-top: 0.6em; }
+.md-body h1 { font-size: 1.15rem; font-weight: 600; line-height: 1.3; margin-top: 1.1em; color: #111827; }
+.md-body h2 { font-size: 1.05rem; font-weight: 600; line-height: 1.3; margin-top: 1em; color: #111827; }
+.md-body h3 { font-size: 0.98rem; font-weight: 600; line-height: 1.3; margin-top: 0.9em; color: #111827; }
+.md-body strong { color: #111827; font-weight: 600; }
+.md-body em { color: #475569; }
+.md-body code { background: #f1f5f9; color: #1e293b; padding: 0.1em 0.35em; border-radius: 4px; font-size: 0.85em; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+.md-body pre { background: #f8fafc; border: 1px solid #f1f5f9; padding: 0.8em 1em; border-radius: 8px; overflow-x: auto; font-size: 0.82em; }
+.md-body pre code { background: transparent; padding: 0; color: #0f172a; }
+.md-body blockquote { border-left: 3px solid #cbd5e1; padding-left: 0.9em; color: #475569; font-style: italic; }
+.md-body a { color: #2563eb; text-decoration: underline; text-decoration-color: #bfdbfe; }
+.md-body table { border-collapse: collapse; font-size: 0.85em; margin: 0.6em 0; width: 100%; }
+.md-body th, .md-body td { border: 1px solid #f1f5f9; padding: 0.4em 0.7em; text-align: left; }
+.md-body th { background: #f8fafc; color: #475569; font-weight: 600; font-size: 0.7rem; letter-spacing: 0.05em; text-transform: uppercase; }
+.md-body hr { border: none; border-top: 1px solid #f1f5f9; margin: 0.9em 0; }

@@ -1,0 +1,15 @@
+[Unit]
+Description=Run capelle-codex-sync every 5 minutes
+Documentation=file:///home/jouchuki2/hobby/capelle-deploy/deploy/INFRA_AUDIT.md
+
+[Timer]
+# Fire shortly after boot and every 5 minutes thereafter.
+OnBootSec=30s
+OnUnitActiveSec=5min
+# If the container was off, catch up on the first missed tick.
+Persistent=true
+Unit=capelle-codex-sync.service
+AccuracySec=15s
+
+[Install]
+WantedBy=timers.target

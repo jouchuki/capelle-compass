@@ -1,0 +1,7 @@
+{
+  "name": "capelle",
+  "version": "1.0.0",
+  "description": "Compass municipal research skills",
+  "enabled_by_default": true,
+  "skills_dir": "skills"
+}

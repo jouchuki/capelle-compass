@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Compass municipal dashboard — Kwaliteit van Leven</title>
+  <meta name="description" content="Dataplatform voor kwaliteit van leven in Capelle aan den IJssel — beleidsdata, indicatoren en wijkanalyse." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/src/styles/index.css" />
+</head>
+<body>
+  <div id="app">
+    <!-- Top Navigation -->
+    <header id="top-nav">
+      <div class="nav-container">
+        <div class="logo">
+          <svg class="logo-icon-svg" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect width="36" height="36" rx="7" fill="#154273"/>
+            <path d="M18 8 L26 14 L26 22 L18 28 L10 22 L10 14 Z" fill="none" stroke="white" stroke-width="1.5"/>
+            <circle cx="18" cy="18" r="3" fill="white"/>
+            <line x1="18" y1="8" x2="18" y2="15" stroke="white" stroke-width="1.5"/>
+          </svg>
+          <div class="logo-text">
+            <span class="logo-title">Compass municipal dashboard</span>
+            <span class="logo-subtitle">Gemeente Capelle aan den IJssel</span>
+          </div>
+        </div>
+        
+        <button id="menu-toggle" class="menu-toggle" aria-label="Toggle Menu">
+          <span></span><span></span><span></span>
+        </button>
+
+        <nav class="nav-menu" id="nav-menu">
+          <ul class="nav-links">
+            <li><a href="#overview" class="nav-link active" data-page="overview">Overzicht</a></li>
+            <li><a href="#trends" class="nav-link" data-page="trends">Trendanalyse</a></li>
+            <li><a href="#policy" class="nav-link" data-page="policy">Beleidsdata</a></li>
+            <li><a href="#insights" class="nav-link" data-page="insights">Beleidsinzichten</a></li>
+            <li><a href="#neighbourhood" class="nav-link" data-page="neighbourhood">Wijkverkenner</a></li>
+            <li><a href="#actions" class="nav-link" data-page="actions">Actiematrix</a></li>
+            <li><a href="#priority" class="nav-link" data-page="priority">Prioriteiten</a></li>
+            <li><a href="#benchmark" class="nav-link" data-page="benchmark">Benchmarking</a></li>
+            <li><a href="#integrity" class="nav-link" data-page="integrity">Data Integriteit</a></li>
+          </ul>
+        </nav>
+      </div>
+      <div class="data-banner">
+        <div class="nav-container banner-content">
+          <div class="banner-left">
+            <span class="badge-dot"></span>
+            <span>Databronnen: CBS Open Data (70072ned) • Lokale Regelgeving (lokaleregelgeving.overheid.nl)</span>
+          </div>
+          <span id="live-status" class="live-status-badge">Verbinden met CBS...</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <main id="main-content">
+      <div class="content-container">
+        <div id="page-overview" class="page active"></div>
+        <div id="page-trends" class="page"></div>
+        <div id="page-policy" class="page"></div>
+        <div id="page-insights" class="page"></div>
+        <div id="page-neighbourhood" class="page"></div>
+        <div id="page-actions" class="page"></div>
+        <div id="page-priority" class="page"></div>
+        <div id="page-benchmark" class="page"></div>
+        <div id="page-integrity" class="page"></div>
+      </div>
+    </main>
+  </div>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

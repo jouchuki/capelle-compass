@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "capelle-groeikernen-tool"
+version = "0.1.0"
+description = "Full-text search across the 7-groeikernen corpus (CVDR verordeningen + Gemeenteblad regelgeving + Iv3 metadata)"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+groeikernen = "capelle_groeikernen_tool.cli:main"
+
+[tool.setuptools]
+packages = ["capelle_groeikernen_tool"]

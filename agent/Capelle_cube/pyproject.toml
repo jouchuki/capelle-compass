@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "capelle-cube-tool"
+version = "0.1.0"
+description = "General OLAP-style probe playbook for arbitrary tabular CSVs"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.0",
+    "numpy>=1.24",
+]
+
+[project.scripts]
+capelle-cube = "capelle_cube_tool.cli:main"
+
+[tool.setuptools]
+packages = ["capelle_cube_tool"]

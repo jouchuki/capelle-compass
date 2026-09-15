@@ -1,0 +1,27 @@
+{
+  "permission": {
+    "mode": "default",
+    "allowed_tools": [
+      "Bash",
+      "Read",
+      "Grep",
+      "Glob",
+      "Skill",
+      "WebFetch",
+      "WebSearch",
+      "Write",
+      "Agent"
+    ],
+    "denied_tools": [],
+    "path_rules": [],
+    "denied_commands": []
+  },
+  "memory": {
+    "enabled": true,
+    "max_files": 5,
+    "max_entrypoint_lines": 200
+  },
+  "enabled_plugins": {
+    "capelle": true
+  }
+}

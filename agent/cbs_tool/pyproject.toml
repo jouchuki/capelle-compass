@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cbs-tool"
+version = "0.2.0"
+requires-python = ">=3.12"
+dependencies = [
+    "typer",
+    "cbsodata",
+    "requests",
+    "pandas",
+    "tabulate",  # pandas .to_markdown() — cbs get --format md
+    "rich",
+    "chromadb",
+    "openai",
+]
+
+[project.scripts]
+cbs = "cbs_tool.cli:app"
+
+[tool.setuptools]
+packages = ["cbs_tool", "cbs_tool.rag"]
+package-dir = {"" = ".."}

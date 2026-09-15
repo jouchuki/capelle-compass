@@ -1,0 +1,13 @@
+# Generated runtime state and regenerated corpora.
+**/*.egg-info/
+**/chroma_db/
+**/analyses/
+**/output/*
+!Capelle_budget/output/budget.json
+!Capelle_budget/output/budget.csv
+!Capelle_buitenbeter/output/reports.csv
+reference/cbs/enriched_catalog.jsonl
+Capelle_enquetes/*.pdf
+Capelle_dashboard/public/data/policy_database.json
+Capelle_dashboard/src/data/policy_database.json
+reference/cbs/catalog.json

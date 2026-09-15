@@ -1,0 +1,18 @@
+[Unit]
+Description=Capelle Codex token sync (snap auth.json -> /etc/capelle-codex.env)
+Documentation=file:///home/jouchuki2/hobby/capelle-deploy/deploy/INFRA_AUDIT.md
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/sbin/capelle-codex-sync
+# Harden a little; script needs root to read snap auth.json and rewrite /etc/capelle-codex.env
+User=root
+Group=root
+ProtectSystem=false
+ProtectHome=read-only
+NoNewPrivileges=yes
+# Keep stdout/stderr in journald (we log tokens only by 8-char tail)
+StandardOutput=journal
+StandardError=journal

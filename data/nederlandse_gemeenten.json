@@ -1,0 +1,2077 @@
+{
+  "source": "https://nl.wikipedia.org/wiki/Lijst_van_Nederlandse_gemeenten",
+  "generated_utc": "2026-05-10T11:13:03Z",
+  "count": 345,
+  "records": [
+    {
+      "name": "Aa en Hunze",
+      "cbs_code": "1680",
+      "province": "Drenthe",
+      "special_municipality": false
+    },
+    {
+      "name": "Aalsmeer",
+      "cbs_code": "0358",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Aalten",
+      "cbs_code": "0197",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Achtkarspelen",
+      "cbs_code": "0059",
+      "province": "Friesland",
+      "special_municipality": false
+    },
+    {
+      "name": "Alblasserdam",
+      "cbs_code": "0482",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Albrandswaard",
+      "cbs_code": "0613",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Alkmaar",
+      "cbs_code": "0361",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Almelo",
+      "cbs_code": "0141",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "Almere",
+      "cbs_code": "0034",
+      "province": "Flevoland",
+      "special_municipality": false
+    },
+    {
+      "name": "Alphen aan den Rijn",
+      "cbs_code": "0484",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Alphen-Chaam",
+      "cbs_code": "1723",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Altena",
+      "cbs_code": "1959",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Ameland",
+      "cbs_code": "0060",
+      "province": "Friesland",
+      "special_municipality": false
+    },
+    {
+      "name": "Amersfoort",
+      "cbs_code": "0307",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Amstelveen",
+      "cbs_code": "0362",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Amsterdam",
+      "cbs_code": "0363",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Apeldoorn",
+      "cbs_code": "0200",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Arnhem",
+      "cbs_code": "0202",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Assen",
+      "cbs_code": "0106",
+      "province": "Drenthe",
+      "special_municipality": false
+    },
+    {
+      "name": "Asten",
+      "cbs_code": "0743",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Baarle-Nassau",
+      "cbs_code": "0744",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Baarn",
+      "cbs_code": "0308",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Barendrecht",
+      "cbs_code": "0489",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Barneveld",
+      "cbs_code": "0203",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Beek",
+      "cbs_code": "0888",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Beekdaelen",
+      "cbs_code": "1954",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Beesel",
+      "cbs_code": "0889",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Berg en Dal",
+      "cbs_code": "1945",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Bergeijk",
+      "cbs_code": "1724",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Bergen",
+      "cbs_code": "0893",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Bergen",
+      "cbs_code": "0373",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Bergen op Zoom",
+      "cbs_code": "0748",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Berkelland",
+      "cbs_code": "1859",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Bernheze",
+      "cbs_code": "1721",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Best",
+      "cbs_code": "0753",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Beuningen",
+      "cbs_code": "0209",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Beverwijk",
+      "cbs_code": "0375",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Bladel",
+      "cbs_code": "1728",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Blaricum",
+      "cbs_code": "0376",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Bloemendaal",
+      "cbs_code": "0377",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Bodegraven-Reeuwijk",
+      "cbs_code": "1901",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Boekel",
+      "cbs_code": "0755",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Bonaire",
+      "cbs_code": "9001",
+      "province": "Caribisch Nederland",
+      "special_municipality": true
+    },
+    {
+      "name": "Borger-Odoorn",
+      "cbs_code": "1681",
+      "province": "Drenthe",
+      "special_municipality": false
+    },
+    {
+      "name": "Borne",
+      "cbs_code": "0147",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "Borsele",
+      "cbs_code": "0654",
+      "province": "Zeeland",
+      "special_municipality": false
+    },
+    {
+      "name": "Boxtel",
+      "cbs_code": "0757",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Breda",
+      "cbs_code": "0758",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Bronckhorst",
+      "cbs_code": "1876",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Brummen",
+      "cbs_code": "0213",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Brunssum",
+      "cbs_code": "0899",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Bunnik",
+      "cbs_code": "0312",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Bunschoten",
+      "cbs_code": "0313",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Buren",
+      "cbs_code": "0214",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Capelle aan den IJssel",
+      "cbs_code": "0502",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Castricum",
+      "cbs_code": "0383",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Coevorden",
+      "cbs_code": "0109",
+      "province": "Drenthe",
+      "special_municipality": false
+    },
+    {
+      "name": "Cranendonck",
+      "cbs_code": "1706",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Culemborg",
+      "cbs_code": "0216",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Dalfsen",
+      "cbs_code": "0148",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "Dantumadeel",
+      "cbs_code": "1891",
+      "province": "Friesland",
+      "special_municipality": false
+    },
+    {
+      "name": "De Bilt",
+      "cbs_code": "0310",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "De Friese Meren",
+      "cbs_code": "1940",
+      "province": "Friesland",
+      "special_municipality": false
+    },
+    {
+      "name": "De Ronde Venen",
+      "cbs_code": "0736",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "De Wolden",
+      "cbs_code": "1690",
+      "province": "Drenthe",
+      "special_municipality": false
+    },
+    {
+      "name": "Delft",
+      "cbs_code": "0503",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Den Haag",
+      "cbs_code": "0518",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Den Helder",
+      "cbs_code": "0400",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Deurne",
+      "cbs_code": "0762",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Deventer",
+      "cbs_code": "0150",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "Diemen",
+      "cbs_code": "0384",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Dijk en Waard",
+      "cbs_code": "1980",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Dinkelland",
+      "cbs_code": "1774",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "Doesburg",
+      "cbs_code": "0221",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Doetinchem",
+      "cbs_code": "0222",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Dongen",
+      "cbs_code": "0766",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Dordrecht",
+      "cbs_code": "0505",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Drechterland",
+      "cbs_code": "0498",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Drimmelen",
+      "cbs_code": "1719",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Dronten",
+      "cbs_code": "0303",
+      "province": "Flevoland",
+      "special_municipality": false
+    },
+    {
+      "name": "Druten",
+      "cbs_code": "0225",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Duiven",
+      "cbs_code": "0226",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Echt-Susteren",
+      "cbs_code": "1711",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Edam-Volendam",
+      "cbs_code": "0385",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Ede",
+      "cbs_code": "0228",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Eemnes",
+      "cbs_code": "0317",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Eemsdelta",
+      "cbs_code": "1979",
+      "province": "Groningen",
+      "special_municipality": false
+    },
+    {
+      "name": "Eersel",
+      "cbs_code": "0770",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Eijsden-Margraten",
+      "cbs_code": "1903",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Eindhoven",
+      "cbs_code": "0772",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Elburg",
+      "cbs_code": "0230",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Emmen",
+      "cbs_code": "0114",
+      "province": "Drenthe",
+      "special_municipality": false
+    },
+    {
+      "name": "Enkhuizen",
+      "cbs_code": "0388",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Enschede",
+      "cbs_code": "0153",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "Epe",
+      "cbs_code": "0232",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Ermelo",
+      "cbs_code": "0233",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Etten-Leur",
+      "cbs_code": "0777",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Geertruidenberg",
+      "cbs_code": "0779",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Geldrop-Mierlo",
+      "cbs_code": "1771",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Gemert-Bakel",
+      "cbs_code": "1652",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Gennep",
+      "cbs_code": "0907",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Gilze en Rijen",
+      "cbs_code": "0784",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Goeree-Overflakkee",
+      "cbs_code": "1924",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Goes",
+      "cbs_code": "0664",
+      "province": "Zeeland",
+      "special_municipality": false
+    },
+    {
+      "name": "Goirle",
+      "cbs_code": "0785",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Gooise Meren",
+      "cbs_code": "1942",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Gorinchem",
+      "cbs_code": "0512",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Gouda",
+      "cbs_code": "0513",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Groningen",
+      "cbs_code": "0014",
+      "province": "Groningen",
+      "special_municipality": false
+    },
+    {
+      "name": "Gulpen-Wittem",
+      "cbs_code": "1729",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Haaksbergen",
+      "cbs_code": "0158",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "Haarlem",
+      "cbs_code": "0392",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Haarlemmermeer",
+      "cbs_code": "0394",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Halderberge",
+      "cbs_code": "1655",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Hardenberg",
+      "cbs_code": "0160",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "Harderwijk",
+      "cbs_code": "0243",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Hardinxveld-Giessendam",
+      "cbs_code": "0523",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Harlingen",
+      "cbs_code": "0072",
+      "province": "Friesland",
+      "special_municipality": false
+    },
+    {
+      "name": "Hattem",
+      "cbs_code": "0244",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Heemskerk",
+      "cbs_code": "0396",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Heemstede",
+      "cbs_code": "0397",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Heerde",
+      "cbs_code": "0246",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Heerenveen",
+      "cbs_code": "0074",
+      "province": "Friesland",
+      "special_municipality": false
+    },
+    {
+      "name": "Heerlen",
+      "cbs_code": "0917",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Heeze-Leende",
+      "cbs_code": "1658",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Heiloo",
+      "cbs_code": "0399",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Hellendoorn",
+      "cbs_code": "0163",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "Helmond",
+      "cbs_code": "0794",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Hendrik-Ido-Ambacht",
+      "cbs_code": "0531",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Hengelo",
+      "cbs_code": "0164",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "'s-Hertogenbosch",
+      "cbs_code": "0796",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Het Hogeland",
+      "cbs_code": "1966",
+      "province": "Groningen",
+      "special_municipality": false
+    },
+    {
+      "name": "Heumen",
+      "cbs_code": "0252",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Heusden",
+      "cbs_code": "0797",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Hillegom",
+      "cbs_code": "0534",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Hilvarenbeek",
+      "cbs_code": "0798",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Hilversum",
+      "cbs_code": "0402",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Hoeksche Waard",
+      "cbs_code": "1963",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Hof van Twente",
+      "cbs_code": "1735",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "Hollands Kroon",
+      "cbs_code": "1911",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Hoogeveen",
+      "cbs_code": "0118",
+      "province": "Drenthe",
+      "special_municipality": false
+    },
+    {
+      "name": "Hoorn",
+      "cbs_code": "0405",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Horst aan de Maas",
+      "cbs_code": "1507",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Houten",
+      "cbs_code": "0321",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Huizen",
+      "cbs_code": "0406",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Hulst",
+      "cbs_code": "0677",
+      "province": "Zeeland",
+      "special_municipality": false
+    },
+    {
+      "name": "IJsselstein",
+      "cbs_code": "0353",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Kaag en Braassem",
+      "cbs_code": "1884",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Kampen",
+      "cbs_code": "0166",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "Kapelle",
+      "cbs_code": "0678",
+      "province": "Zeeland",
+      "special_municipality": false
+    },
+    {
+      "name": "Katwijk",
+      "cbs_code": "0537",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Kerkrade",
+      "cbs_code": "0928",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Koggenland",
+      "cbs_code": "1598",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Krimpen aan den IJssel",
+      "cbs_code": "0542",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Krimpenerwaard",
+      "cbs_code": "1931",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Laarbeek",
+      "cbs_code": "1659",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Land van Cuijk",
+      "cbs_code": "1982",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Landgraaf",
+      "cbs_code": "0882",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Landsmeer",
+      "cbs_code": "0415",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Lansingerland",
+      "cbs_code": "1621",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Laren",
+      "cbs_code": "0417",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Leeuwarden",
+      "cbs_code": "0080",
+      "province": "Friesland",
+      "special_municipality": false
+    },
+    {
+      "name": "Leiden",
+      "cbs_code": "0546",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Leiderdorp",
+      "cbs_code": "0547",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Leidschendam-Voorburg",
+      "cbs_code": "1916",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Lelystad",
+      "cbs_code": "0995",
+      "province": "Flevoland",
+      "special_municipality": false
+    },
+    {
+      "name": "Leudal",
+      "cbs_code": "1640",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Leusden",
+      "cbs_code": "0327",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Lingewaard",
+      "cbs_code": "1705",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Lisse",
+      "cbs_code": "0553",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Lochem",
+      "cbs_code": "0262",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Loon op Zand",
+      "cbs_code": "0809",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Lopik",
+      "cbs_code": "0331",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Losser",
+      "cbs_code": "0168",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "Maasdriel",
+      "cbs_code": "0263",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Maasgouw",
+      "cbs_code": "1641",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Maashorst",
+      "cbs_code": "1991",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Maassluis",
+      "cbs_code": "0556",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Maastricht",
+      "cbs_code": "0935",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Medemblik",
+      "cbs_code": "0420",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Meerssen",
+      "cbs_code": "0938",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Meierijstad",
+      "cbs_code": "1948",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Meppel",
+      "cbs_code": "0119",
+      "province": "Drenthe",
+      "special_municipality": false
+    },
+    {
+      "name": "Middelburg",
+      "cbs_code": "0687",
+      "province": "Zeeland",
+      "special_municipality": false
+    },
+    {
+      "name": "Midden-Delfland",
+      "cbs_code": "1842",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Midden-Drenthe",
+      "cbs_code": "1731",
+      "province": "Drenthe",
+      "special_municipality": false
+    },
+    {
+      "name": "Midden-Groningen",
+      "cbs_code": "1952",
+      "province": "Groningen",
+      "special_municipality": false
+    },
+    {
+      "name": "Moerdijk",
+      "cbs_code": "1709",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Molenlanden",
+      "cbs_code": "1978",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Montferland",
+      "cbs_code": "1955",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Montfoort",
+      "cbs_code": "0335",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Mook en Middelaar",
+      "cbs_code": "0944",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Neder-Betuwe",
+      "cbs_code": "1740",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Nederweert",
+      "cbs_code": "0946",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Nieuwegein",
+      "cbs_code": "0356",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Nieuwkoop",
+      "cbs_code": "0569",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Nijkerk",
+      "cbs_code": "0267",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Nijmegen",
+      "cbs_code": "0268",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Nissewaard",
+      "cbs_code": "1930",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Noardeast-Fryslân",
+      "cbs_code": "1970",
+      "province": "Friesland",
+      "special_municipality": false
+    },
+    {
+      "name": "Noord-Beveland",
+      "cbs_code": "1695",
+      "province": "Zeeland",
+      "special_municipality": false
+    },
+    {
+      "name": "Noordenveld",
+      "cbs_code": "1699",
+      "province": "Drenthe",
+      "special_municipality": false
+    },
+    {
+      "name": "Noordoostpolder",
+      "cbs_code": "0171",
+      "province": "Flevoland",
+      "special_municipality": false
+    },
+    {
+      "name": "Noordwijk",
+      "cbs_code": "0575",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Nuenen c.a.",
+      "cbs_code": "0820",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Nunspeet",
+      "cbs_code": "0302",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Oegstgeest",
+      "cbs_code": "0579",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Oirschot",
+      "cbs_code": "0823",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Oisterwijk",
+      "cbs_code": "0824",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Oldambt",
+      "cbs_code": "1895",
+      "province": "Groningen",
+      "special_municipality": false
+    },
+    {
+      "name": "Oldebroek",
+      "cbs_code": "0269",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Oldenzaal",
+      "cbs_code": "0173",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "Olst-Wijhe",
+      "cbs_code": "1773",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "Ommen",
+      "cbs_code": "0175",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "Oost Gelre",
+      "cbs_code": "1586",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Oosterhout",
+      "cbs_code": "0826",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Ooststellingwerf",
+      "cbs_code": "0085",
+      "province": "Friesland",
+      "special_municipality": false
+    },
+    {
+      "name": "Oostzaan",
+      "cbs_code": "0431",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Opmeer",
+      "cbs_code": "0432",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Opsterland",
+      "cbs_code": "0086",
+      "province": "Friesland",
+      "special_municipality": false
+    },
+    {
+      "name": "Oss",
+      "cbs_code": "0828",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Oude IJsselstreek",
+      "cbs_code": "1509",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Ouder-Amstel",
+      "cbs_code": "0437",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Oudewater",
+      "cbs_code": "0589",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Overbetuwe",
+      "cbs_code": "1734",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Papendrecht",
+      "cbs_code": "0590",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Peel en Maas",
+      "cbs_code": "1894",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Pekela",
+      "cbs_code": "0765",
+      "province": "Groningen",
+      "special_municipality": false
+    },
+    {
+      "name": "Pijnacker-Nootdorp",
+      "cbs_code": "1926",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Purmerend",
+      "cbs_code": "0439",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Putten",
+      "cbs_code": "0273",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Raalte",
+      "cbs_code": "0177",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "Reimerswaal",
+      "cbs_code": "0703",
+      "province": "Zeeland",
+      "special_municipality": false
+    },
+    {
+      "name": "Renkum",
+      "cbs_code": "0274",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Renswoude",
+      "cbs_code": "0339",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Reusel-De Mierden",
+      "cbs_code": "1667",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Rheden",
+      "cbs_code": "0275",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Rhenen",
+      "cbs_code": "0340",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Ridderkerk",
+      "cbs_code": "0597",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Rijssen-Holten",
+      "cbs_code": "1742",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "Rijswijk",
+      "cbs_code": "0603",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Roerdalen",
+      "cbs_code": "1669",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Roermond",
+      "cbs_code": "0957",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Roosendaal",
+      "cbs_code": "1674",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Rotterdam",
+      "cbs_code": "0599",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Rozendaal",
+      "cbs_code": "0277",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Rucphen",
+      "cbs_code": "0840",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Saba",
+      "cbs_code": "9003",
+      "province": "Caribisch Nederland",
+      "special_municipality": true
+    },
+    {
+      "name": "Schagen",
+      "cbs_code": "0441",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Scherpenzeel",
+      "cbs_code": "0279",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Schiedam",
+      "cbs_code": "0606",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Schiermonnikoog",
+      "cbs_code": "0088",
+      "province": "Friesland",
+      "special_municipality": false
+    },
+    {
+      "name": "Schouwen-Duiveland",
+      "cbs_code": "1676",
+      "province": "Zeeland",
+      "special_municipality": false
+    },
+    {
+      "name": "Simpelveld",
+      "cbs_code": "0965",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Sint Eustatius",
+      "cbs_code": "9002",
+      "province": "Caribisch Nederland",
+      "special_municipality": true
+    },
+    {
+      "name": "Sint-Michielsgestel",
+      "cbs_code": "0845",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Sittard-Geleen",
+      "cbs_code": "1883",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Sliedrecht",
+      "cbs_code": "0610",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Sluis",
+      "cbs_code": "1714",
+      "province": "Zeeland",
+      "special_municipality": false
+    },
+    {
+      "name": "Smallingerland",
+      "cbs_code": "0090",
+      "province": "Friesland",
+      "special_municipality": false
+    },
+    {
+      "name": "Soest",
+      "cbs_code": "0342",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Someren",
+      "cbs_code": "0847",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Son en Breugel",
+      "cbs_code": "0848",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Stadskanaal",
+      "cbs_code": "0037",
+      "province": "Groningen",
+      "special_municipality": false
+    },
+    {
+      "name": "Staphorst",
+      "cbs_code": "0180",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "Stede Broec",
+      "cbs_code": "0532",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Steenbergen",
+      "cbs_code": "0851",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Steenwijkerland",
+      "cbs_code": "1708",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "Stein",
+      "cbs_code": "0971",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Stichtse Vecht",
+      "cbs_code": "1904",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Súdwest-Fryslân",
+      "cbs_code": "1900",
+      "province": "Friesland",
+      "special_municipality": false
+    },
+    {
+      "name": "Terneuzen",
+      "cbs_code": "0715",
+      "province": "Zeeland",
+      "special_municipality": false
+    },
+    {
+      "name": "Terschelling",
+      "cbs_code": "0093",
+      "province": "Friesland",
+      "special_municipality": false
+    },
+    {
+      "name": "Texel",
+      "cbs_code": "0448",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Teylingen",
+      "cbs_code": "1525",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Tholen",
+      "cbs_code": "0716",
+      "province": "Zeeland",
+      "special_municipality": false
+    },
+    {
+      "name": "Tiel",
+      "cbs_code": "0281",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Tilburg",
+      "cbs_code": "0855",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Tubbergen",
+      "cbs_code": "0183",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "Twenterand",
+      "cbs_code": "1700",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "Tynaarlo",
+      "cbs_code": "1730",
+      "province": "Drenthe",
+      "special_municipality": false
+    },
+    {
+      "name": "Tietjerksteradeel",
+      "cbs_code": "0737",
+      "province": "Friesland",
+      "special_municipality": false
+    },
+    {
+      "name": "Uitgeest",
+      "cbs_code": "0450",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Uithoorn",
+      "cbs_code": "0451",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Urk",
+      "cbs_code": "0184",
+      "province": "Flevoland",
+      "special_municipality": false
+    },
+    {
+      "name": "Utrecht",
+      "cbs_code": "0344",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Utrechtse Heuvelrug",
+      "cbs_code": "1581",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Vaals",
+      "cbs_code": "0981",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Valkenburg aan de Geul",
+      "cbs_code": "0994",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Valkenswaard",
+      "cbs_code": "0858",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Veendam",
+      "cbs_code": "0047",
+      "province": "Groningen",
+      "special_municipality": false
+    },
+    {
+      "name": "Veenendaal",
+      "cbs_code": "0345",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Veere",
+      "cbs_code": "0717",
+      "province": "Zeeland",
+      "special_municipality": false
+    },
+    {
+      "name": "Veldhoven",
+      "cbs_code": "0861",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Velsen",
+      "cbs_code": "0453",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Venlo",
+      "cbs_code": "0983",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Venray",
+      "cbs_code": "0984",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Vijfheerenlanden",
+      "cbs_code": "1961",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Vlaardingen",
+      "cbs_code": "0622",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Vlieland",
+      "cbs_code": "0096",
+      "province": "Friesland",
+      "special_municipality": false
+    },
+    {
+      "name": "Vlissingen",
+      "cbs_code": "0718",
+      "province": "Zeeland",
+      "special_municipality": false
+    },
+    {
+      "name": "Voerendaal",
+      "cbs_code": "0986",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "Voorne aan Zee",
+      "cbs_code": "1992",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Voorschoten",
+      "cbs_code": "0626",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Voorst",
+      "cbs_code": "0285",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Vught",
+      "cbs_code": "0865",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Waadhoeke",
+      "cbs_code": "1949",
+      "province": "Friesland",
+      "special_municipality": false
+    },
+    {
+      "name": "Waalre",
+      "cbs_code": "0866",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Waalwijk",
+      "cbs_code": "0867",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Waddinxveen",
+      "cbs_code": "0627",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Wageningen",
+      "cbs_code": "0289",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Wassenaar",
+      "cbs_code": "0629",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Waterland",
+      "cbs_code": "0852",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Weert",
+      "cbs_code": "0988",
+      "province": "Limburg",
+      "special_municipality": false
+    },
+    {
+      "name": "West Betuwe",
+      "cbs_code": "1960",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "West Maas en Waal",
+      "cbs_code": "0668",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Westerkwartier",
+      "cbs_code": "1969",
+      "province": "Groningen",
+      "special_municipality": false
+    },
+    {
+      "name": "Westerveld",
+      "cbs_code": "1701",
+      "province": "Drenthe",
+      "special_municipality": false
+    },
+    {
+      "name": "Westervoort",
+      "cbs_code": "0293",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Westerwolde",
+      "cbs_code": "1950",
+      "province": "Groningen",
+      "special_municipality": false
+    },
+    {
+      "name": "Westland",
+      "cbs_code": "1783",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Weststellingwerf",
+      "cbs_code": "0098",
+      "province": "Friesland",
+      "special_municipality": false
+    },
+    {
+      "name": "Wierden",
+      "cbs_code": "0189",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "Wijchen",
+      "cbs_code": "0296",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Wijdemeren",
+      "cbs_code": "1696",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Wijk bij Duurstede",
+      "cbs_code": "0352",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Winterswijk",
+      "cbs_code": "0294",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Woensdrecht",
+      "cbs_code": "0873",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Woerden",
+      "cbs_code": "0632",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Wormerland",
+      "cbs_code": "0880",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Woudenberg",
+      "cbs_code": "0351",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Zaanstad",
+      "cbs_code": "0479",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Zaltbommel",
+      "cbs_code": "0297",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Zandvoort",
+      "cbs_code": "0473",
+      "province": "Noord-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Zeewolde",
+      "cbs_code": "0050",
+      "province": "Flevoland",
+      "special_municipality": false
+    },
+    {
+      "name": "Zeist",
+      "cbs_code": "0355",
+      "province": "Utrecht",
+      "special_municipality": false
+    },
+    {
+      "name": "Zevenaar",
+      "cbs_code": "0299",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Zoetermeer",
+      "cbs_code": "0637",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Zoeterwoude",
+      "cbs_code": "0638",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Zuidplas",
+      "cbs_code": "1892",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Zundert",
+      "cbs_code": "0879",
+      "province": "Noord-Brabant",
+      "special_municipality": false
+    },
+    {
+      "name": "Zutphen",
+      "cbs_code": "0301",
+      "province": "Gelderland",
+      "special_municipality": false
+    },
+    {
+      "name": "Zwartewaterland",
+      "cbs_code": "1896",
+      "province": "Overijssel",
+      "special_municipality": false
+    },
+    {
+      "name": "Zwijndrecht",
+      "cbs_code": "0642",
+      "province": "Zuid-Holland",
+      "special_municipality": false
+    },
+    {
+      "name": "Zwolle",
+      "cbs_code": "0193",
+      "province": "Overijssel",
+      "special_municipality": false
+    }
+  ]
+}

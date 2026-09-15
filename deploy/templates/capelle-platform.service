@@ -1,0 +1,34 @@
+[Unit]
+Description=Capelle Data Assistent Platform
+After=network.target
+
+[Service]
+EnvironmentFile=/etc/capelle-codex.env
+OOMScoreAdjust=-100
+Type=simple
+User=root
+WorkingDirectory=/opt/backend
+ExecStart=/opt/backend/.venv/bin/python -m capelle_platform.main
+Restart=on-failure
+RestartSec=5
+Environment=CAPELLE_HOST=0.0.0.0
+Environment=CAPELLE_PORT=8080
+Environment=CAPELLE_LOG_LEVEL=INFO
+Environment=CAPELLE_OHRS_WORKING_DIR=/opt/capelle-repo-agent
+Environment=CAPELLE_OHRS_BINARY=/usr/local/bin/ohrs
+# CAPELLE_CHROMA_HTTP intentionally omitted — sourced from /etc/capelle-codex.env
+# (currently yuji-itadori:8000). Keeping it in the env file keeps the chroma
+# endpoint rotatable without a unit edit. Local chromadb.service is removed.
+Environment=CAPELLE_WORKER_CONCURRENCY=5
+Environment=CAPELLE_OHRS_MAX_TURNS=40
+Environment=CAPELLE_JOB_TIMEOUT_SECONDS=1200
+Environment=PATH=/usr/local/bin:/usr/bin:/bin:/opt/tools-venv/bin
+# NOTE: OPENAI_API_KEY intentionally omitted.
+# Per INFRA_AUDIT.md §6.5, the hard-coded fallback key in the legacy unit file
+# is a ghost: the Codex OAuth path (CODEX_* env vars from /etc/capelle-codex.env)
+# is what ohrs actually uses. TOKEN-SYNC owns writing those vars into the env
+# file. If a future OpenAI-direct fallback is truly needed, put it in the env
+# file (root-owned, 0600) where it can be rotated without a unit edit.
+
+[Install]
+WantedBy=multi-user.target

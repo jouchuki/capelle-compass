@@ -1,0 +1,8 @@
+# Optional data-refresh pipelines and auxiliary Flask dashboards.
+anthropic
+beautifulsoup4
+flask
+flask-cors
+playwright
+requests
+rich

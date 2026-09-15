@@ -1,0 +1,346 @@
+name,cbs_code,province,found,slug,url,final_url,title,status,reason,candidates_tried
+Bonaire,9001,Caribisch Nederland,False,bonaire,https://bonaire.incijfers.nl/Dashboard,https://bonaire.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,bonaire
+Saba,9003,Caribisch Nederland,False,saba,https://saba.incijfers.nl/Dashboard,https://saba.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,saba
+Sint Eustatius,9002,Caribisch Nederland,False,sinteustatius,https://sinteustatius.incijfers.nl/Dashboard,https://sinteustatius.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,sint-eustatius sinteustatius
+Aa en Hunze,1680,Drenthe,False,aaenhunze,https://aaenhunze.incijfers.nl/Dashboard,https://aaenhunze.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,aa-en-hunze aaenhunze
+Assen,0106,Drenthe,True,assen,https://assen.incijfers.nl/Dashboard,https://assen.incijfers.nl/Dashboard,Assen in Cijfers - Assen,200,ok,assen
+Borger-Odoorn,1681,Drenthe,False,borger,https://borger.incijfers.nl/Dashboard,https://borger.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,borger-odoorn borgerodoorn borger
+Coevorden,0109,Drenthe,False,coevorden,https://coevorden.incijfers.nl/Dashboard,https://coevorden.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,coevorden
+De Wolden,1690,Drenthe,False,wolden,https://wolden.incijfers.nl/Dashboard,https://wolden.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,de-wolden dewolden wolden
+Emmen,0114,Drenthe,False,emmen,https://emmen.incijfers.nl/Dashboard,https://emmen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,emmen
+Hoogeveen,0118,Drenthe,False,hoogeveen,https://hoogeveen.incijfers.nl/Dashboard,https://hoogeveen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,hoogeveen
+Meppel,0119,Drenthe,True,meppel,https://meppel.incijfers.nl/Dashboard,https://meppel.incijfers.nl/Dashboard,Meppel in Cijfers,200,ok,meppel
+Midden-Drenthe,1731,Drenthe,False,midden,https://midden.incijfers.nl/Dashboard,https://midden.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,midden-drenthe middendrenthe midden
+Noordenveld,1699,Drenthe,False,noordenveld,https://noordenveld.incijfers.nl/Dashboard,https://noordenveld.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,noordenveld
+Tynaarlo,1730,Drenthe,True,tynaarlo,https://tynaarlo.incijfers.nl/Dashboard,https://tynaarlo.incijfers.nl/Dashboard,Tynaarlo in Cijfers - Gemeente Tynaarlo,200,ok,tynaarlo
+Westerveld,1701,Drenthe,False,westerveld,https://westerveld.incijfers.nl/Dashboard,https://westerveld.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,westerveld
+Almere,0034,Flevoland,False,almere,https://almere.incijfers.nl/Dashboard,https://almere.incijfers.nl/Dashboard,,200,not_dashboard,almere
+Dronten,0303,Flevoland,False,dronten,https://dronten.incijfers.nl/Dashboard,https://dronten.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,dronten
+Lelystad,0995,Flevoland,True,lelystad,https://lelystad.incijfers.nl/Dashboard,https://lelystad.incijfers.nl/Dashboard,Lelystad in Cijfers - Lelystad,200,ok,lelystad
+Noordoostpolder,0171,Flevoland,False,noordoostpolder,https://noordoostpolder.incijfers.nl/Dashboard,https://noordoostpolder.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,noordoostpolder
+Urk,0184,Flevoland,False,urk,https://urk.incijfers.nl/Dashboard,https://urk.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,urk
+Zeewolde,0050,Flevoland,False,zeewolde,https://zeewolde.incijfers.nl/Dashboard,https://zeewolde.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,zeewolde
+Achtkarspelen,0059,Friesland,False,achtkarspelen,https://achtkarspelen.incijfers.nl/Dashboard,https://achtkarspelen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,achtkarspelen
+Ameland,0060,Friesland,False,ameland,https://ameland.incijfers.nl/Dashboard,https://ameland.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,ameland
+Dantumadeel,1891,Friesland,False,dantumadeel,https://dantumadeel.incijfers.nl/Dashboard,https://dantumadeel.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,dantumadeel
+De Friese Meren,1940,Friesland,False,friesemeren,https://friesemeren.incijfers.nl/Dashboard,https://friesemeren.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,de-friese-meren defriesemeren friese-meren friesemeren
+Harlingen,0072,Friesland,False,harlingen,https://harlingen.incijfers.nl/Dashboard,https://harlingen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,harlingen
+Heerenveen,0074,Friesland,False,heerenveen,https://heerenveen.incijfers.nl/Dashboard,https://heerenveen.incijfers.nl/Dashboard,Pagina niet gevonden - 404,404,404,heerenveen
+Leeuwarden,0080,Friesland,False,leeuwarden,https://leeuwarden.incijfers.nl/Dashboard,https://leeuwarden.incijfers.nl/mosaic/leeuwarden,Leeuwarden - Gemeente Leeuwarden,200,not_dashboard,leeuwarden
+Noardeast-Fryslân,1970,Friesland,False,noardeast,https://noardeast.incijfers.nl/Dashboard,https://noardeast.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,noardeast-fryslan noardeastfryslan noardeast
+Ooststellingwerf,0085,Friesland,False,ooststellingwerf,https://ooststellingwerf.incijfers.nl/Dashboard,https://ooststellingwerf.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,ooststellingwerf
+Opsterland,0086,Friesland,False,opsterland,https://opsterland.incijfers.nl/Dashboard,https://opsterland.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,opsterland
+Schiermonnikoog,0088,Friesland,False,schiermonnikoog,https://schiermonnikoog.incijfers.nl/Dashboard,https://schiermonnikoog.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,schiermonnikoog
+Smallingerland,0090,Friesland,False,smallingerland,https://smallingerland.incijfers.nl/Dashboard,https://smallingerland.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,smallingerland
+Súdwest-Fryslân,1900,Friesland,False,sudwest,https://sudwest.incijfers.nl/Dashboard,https://sudwest.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,sudwest-fryslan sudwestfryslan sudwest
+Terschelling,0093,Friesland,False,terschelling,https://terschelling.incijfers.nl/Dashboard,https://terschelling.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,terschelling
+Tietjerksteradeel,0737,Friesland,False,tietjerksteradeel,https://tietjerksteradeel.incijfers.nl/Dashboard,https://tietjerksteradeel.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,tietjerksteradeel
+Vlieland,0096,Friesland,False,vlieland,https://vlieland.incijfers.nl/Dashboard,https://vlieland.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,vlieland
+Waadhoeke,1949,Friesland,True,waadhoeke,https://waadhoeke.incijfers.nl/Dashboard,https://waadhoeke.incijfers.nl/Dashboard,Waadhoeke in Cijfers - Waadhoeke,200,ok,waadhoeke
+Weststellingwerf,0098,Friesland,False,weststellingwerf,https://weststellingwerf.incijfers.nl/Dashboard,https://weststellingwerf.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,weststellingwerf
+Aalten,0197,Gelderland,False,aalten,https://aalten.incijfers.nl/Dashboard,https://aalten.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,aalten
+Apeldoorn,0200,Gelderland,True,apeldoorn,https://apeldoorn.incijfers.nl/Dashboard,https://apeldoorn.incijfers.nl/dashboard/apeldoorn-in-cijfers,Apeldoorn in Cijfers - Apeldoorn,200,ok,apeldoorn
+Arnhem,0202,Gelderland,False,arnhem,https://arnhem.incijfers.nl/Dashboard,https://arnhem.incijfers.nl/mosaic/staat-van-de-stad,Staat van de Stad - Arnhem,200,not_dashboard,arnhem
+Barneveld,0203,Gelderland,True,barneveld,https://barneveld.incijfers.nl/Dashboard,https://barneveld.incijfers.nl/Dashboard,Barneveld in Cijfers - Barneveld,200,ok,barneveld
+Berg en Dal,1945,Gelderland,False,berg,https://berg.incijfers.nl/Dashboard,https://berg.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,berg-en-dal bergendal berg
+Berkelland,1859,Gelderland,True,berkelland,https://berkelland.incijfers.nl/Dashboard,https://berkelland.incijfers.nl/Dashboard,Berkelland in Cijfers - Berkelland,200,ok,berkelland
+Beuningen,0209,Gelderland,True,beuningen,https://beuningen.incijfers.nl/Dashboard,https://beuningen.incijfers.nl/Dashboard,Beuningen in Cijfers - Beuningen,200,ok,beuningen
+Bronckhorst,1876,Gelderland,False,bronckhorst,https://bronckhorst.incijfers.nl/Dashboard,https://bronckhorst.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,bronckhorst
+Brummen,0213,Gelderland,False,brummen,https://brummen.incijfers.nl/Dashboard,https://brummen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,brummen
+Buren,0214,Gelderland,False,buren,https://buren.incijfers.nl/Dashboard,https://buren.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,buren
+Culemborg,0216,Gelderland,False,culemborg,https://culemborg.incijfers.nl/Dashboard,https://culemborg.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,culemborg
+Doesburg,0221,Gelderland,False,doesburg,https://doesburg.incijfers.nl/Dashboard,https://doesburg.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,doesburg
+Doetinchem,0222,Gelderland,False,doetinchem,https://doetinchem.incijfers.nl/Dashboard,https://doetinchem.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,doetinchem
+Druten,0225,Gelderland,True,druten,https://druten.incijfers.nl/Dashboard,https://druten-wijchen.incijfers.nl/dashboard?regionlevel=gemeente&regioncode=225,Druten-Wijchen in Cijfers - Druten-Wijchen,200,ok,druten
+Duiven,0226,Gelderland,False,duiven,https://duiven.incijfers.nl/Dashboard,https://duiven.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,duiven
+Ede,0228,Gelderland,True,ede,https://ede.incijfers.nl/Dashboard,https://ede.incijfers.nl/dashboard/ede-in-cijfers,Ede in Cijfers - Gemeente Ede,200,ok,ede
+Elburg,0230,Gelderland,False,elburg,https://elburg.incijfers.nl/Dashboard,https://elburg.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,elburg
+Epe,0232,Gelderland,False,epe,https://epe.incijfers.nl/Dashboard,https://epe.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,epe
+Ermelo,0233,Gelderland,False,ermelo,https://ermelo.incijfers.nl/Dashboard,https://ermelo.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,ermelo
+Harderwijk,0243,Gelderland,False,harderwijk,https://harderwijk.incijfers.nl/Dashboard,https://harderwijk.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,harderwijk
+Hattem,0244,Gelderland,False,hattem,https://hattem.incijfers.nl/Dashboard,https://hattem.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,hattem
+Heerde,0246,Gelderland,False,heerde,https://heerde.incijfers.nl/Dashboard,https://heerde.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,heerde
+Heumen,0252,Gelderland,False,heumen,https://heumen.incijfers.nl/Dashboard,https://heumen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,heumen
+Lingewaard,1705,Gelderland,False,lingewaard,https://lingewaard.incijfers.nl/Dashboard,https://lingewaard.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,lingewaard
+Lochem,0262,Gelderland,False,lochem,https://lochem.incijfers.nl/Dashboard,https://lochem.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,lochem
+Maasdriel,0263,Gelderland,False,maasdriel,https://maasdriel.incijfers.nl/Dashboard,https://maasdriel.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,maasdriel
+Montferland,1955,Gelderland,False,montferland,https://montferland.incijfers.nl/Dashboard,https://montferland.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,montferland
+Neder-Betuwe,1740,Gelderland,False,neder,https://neder.incijfers.nl/Dashboard,https://neder.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,neder-betuwe nederbetuwe neder
+Nijkerk,0267,Gelderland,False,nijkerk,https://nijkerk.incijfers.nl/Dashboard,https://nijkerk.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,nijkerk
+Nijmegen,0268,Gelderland,True,nijmegen,https://nijmegen.incijfers.nl/Dashboard,https://nijmegen.incijfers.nl/Dashboard,Nijmegen in Cijfers - Nijmegen,200,ok,nijmegen
+Nunspeet,0302,Gelderland,False,nunspeet,https://nunspeet.incijfers.nl/Dashboard,https://nunspeet.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,nunspeet
+Oldebroek,0269,Gelderland,False,oldebroek,https://oldebroek.incijfers.nl/Dashboard,https://oldebroek.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,oldebroek
+Oost Gelre,1586,Gelderland,False,oost,https://oost.incijfers.nl/Dashboard,https://oost.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,oost-gelre oostgelre oost
+Oude IJsselstreek,1509,Gelderland,False,oude,https://oude.incijfers.nl/Dashboard,https://oude.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,oude-ijsselstreek oudeijsselstreek oude
+Overbetuwe,1734,Gelderland,True,overbetuwe,https://overbetuwe.incijfers.nl/Dashboard,https://overbetuwe.incijfers.nl/Dashboard,Overbetuwe in Cijfers,200,ok,overbetuwe
+Putten,0273,Gelderland,False,putten,https://putten.incijfers.nl/Dashboard,https://putten.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,putten
+Renkum,0274,Gelderland,False,renkum,https://renkum.incijfers.nl/Dashboard,https://renkum.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,renkum
+Rheden,0275,Gelderland,False,rheden,https://rheden.incijfers.nl/Dashboard,https://rheden.incijfers.nl/Dashboard,Pagina niet gevonden - 404,404,404,rheden
+Rozendaal,0277,Gelderland,False,rozendaal,https://rozendaal.incijfers.nl/Dashboard,https://rozendaal.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,rozendaal
+Scherpenzeel,0279,Gelderland,False,scherpenzeel,https://scherpenzeel.incijfers.nl/Dashboard,https://scherpenzeel.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,scherpenzeel
+Tiel,0281,Gelderland,True,tiel,https://tiel.incijfers.nl/Dashboard,https://tiel.incijfers.nl/Dashboard,Tiel in Cijfers - Tiel,200,ok,tiel
+Voorst,0285,Gelderland,False,voorst,https://voorst.incijfers.nl/Dashboard,https://voorst.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,voorst
+Wageningen,0289,Gelderland,False,wageningen,https://wageningen.incijfers.nl/Dashboard,https://wageningen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,wageningen
+West Betuwe,1960,Gelderland,False,west,https://west.incijfers.nl/Dashboard,https://west.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,west-betuwe westbetuwe west
+West Maas en Waal,0668,Gelderland,False,west,https://west.incijfers.nl/Dashboard,https://west.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,west-maas-en-waal westmaasenwaal west
+Westervoort,0293,Gelderland,False,westervoort,https://westervoort.incijfers.nl/Dashboard,https://westervoort.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,westervoort
+Wijchen,0296,Gelderland,True,wijchen,https://wijchen.incijfers.nl/Dashboard,https://druten-wijchen.incijfers.nl/dashboard?regionlevel=gemeente&regioncode=296,Druten-Wijchen in Cijfers - Druten-Wijchen,200,ok,wijchen
+Winterswijk,0294,Gelderland,False,winterswijk,https://winterswijk.incijfers.nl/Dashboard,https://winterswijk.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,winterswijk
+Zaltbommel,0297,Gelderland,False,zaltbommel,https://zaltbommel.incijfers.nl/Dashboard,https://zaltbommel.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,zaltbommel
+Zevenaar,0299,Gelderland,True,zevenaar,https://zevenaar.incijfers.nl/Dashboard,https://zevenaar.incijfers.nl/Dashboard,Zevenaar in Cijfers - Zevenaar,200,ok,zevenaar
+Zutphen,0301,Gelderland,True,zutphen,https://zutphen.incijfers.nl/Dashboard,https://zutphen.incijfers.nl/Dashboard,Zutphen in Cijfers - Zutphen,200,ok,zutphen
+Eemsdelta,1979,Groningen,True,eemsdelta,https://eemsdelta.incijfers.nl/Dashboard,https://eemsdelta.incijfers.nl/Dashboard,Eemsdelta in Cijfers - Eemsdelta,200,ok,eemsdelta
+Groningen,0014,Groningen,False,groningen,https://groningen.incijfers.nl/Dashboard,https://groningen.buurtmonitor.nl/mosaic/Dashboard,Pagina niet gevonden - 404,404,404,groningen
+Het Hogeland,1966,Groningen,False,hogeland,https://hogeland.incijfers.nl/Dashboard,https://hogeland.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,het-hogeland hethogeland hogeland
+Midden-Groningen,1952,Groningen,True,midden-groningen,https://midden-groningen.incijfers.nl/Dashboard,https://midden-groningen.incijfers.nl/Dashboard,Midden-Groningen in Cijfers - Midden-Groningen,200,ok,midden-groningen
+Oldambt,1895,Groningen,False,oldambt,https://oldambt.incijfers.nl/Dashboard,https://oldambt.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,oldambt
+Pekela,0765,Groningen,False,pekela,https://pekela.incijfers.nl/Dashboard,https://pekela.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,pekela
+Stadskanaal,0037,Groningen,False,stadskanaal,https://stadskanaal.incijfers.nl/Dashboard,https://stadskanaal.incijfers.nl/dashboard/login.aspx?returnUrl=%2FDashboard,Inloggen,200,not_dashboard,stadskanaal
+Veendam,0047,Groningen,False,veendam,https://veendam.incijfers.nl/Dashboard,https://veendam.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,veendam
+Westerkwartier,1969,Groningen,False,westerkwartier,https://westerkwartier.incijfers.nl/Dashboard,https://westerkwartier.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,westerkwartier
+Westerwolde,1950,Groningen,False,westerwolde,https://westerwolde.incijfers.nl/Dashboard,https://westerwolde.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,westerwolde
+Beek,0888,Limburg,False,beek,https://beek.incijfers.nl/Dashboard,https://beek.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,beek
+Beekdaelen,1954,Limburg,True,beekdaelen,https://beekdaelen.incijfers.nl/Dashboard,https://parkstad.incijfers.nl/dashboard?regionlevel=gemeente&regioncode=1954,Parkstad in Cijfers - Beekdaelen,200,ok,beekdaelen
+Beesel,0889,Limburg,False,beesel,https://beesel.incijfers.nl/Dashboard,https://beesel.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,beesel
+Bergen,0893,Limburg,False,bergen,https://bergen.incijfers.nl/Dashboard,https://bergen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,bergen
+Brunssum,0899,Limburg,True,brunssum,https://brunssum.incijfers.nl/Dashboard,https://parkstad.incijfers.nl/dashboard?regionlevel=gemeente&regioncode=899,Parkstad in Cijfers - Beekdaelen,200,ok,brunssum
+Echt-Susteren,1711,Limburg,False,echt,https://echt.incijfers.nl/Dashboard,https://echt.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,echt-susteren echtsusteren echt
+Eijsden-Margraten,1903,Limburg,False,eijsden,https://eijsden.incijfers.nl/Dashboard,https://eijsden.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,eijsden-margraten eijsdenmargraten eijsden
+Gennep,0907,Limburg,False,gennep,https://gennep.incijfers.nl/Dashboard,https://gennep.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,gennep
+Gulpen-Wittem,1729,Limburg,False,gulpen,https://gulpen.incijfers.nl/Dashboard,https://gulpen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,gulpen-wittem gulpenwittem gulpen
+Heerlen,0917,Limburg,True,heerlen,https://heerlen.incijfers.nl/Dashboard,https://parkstad.incijfers.nl/dashboard?regionlevel=gemeente&regioncode=917,Parkstad in Cijfers - Beekdaelen,200,ok,heerlen
+Horst aan de Maas,1507,Limburg,False,horstmaas,https://horstmaas.incijfers.nl/Dashboard,https://horstmaas.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,horst-aan-de-maas horstaandemaas horst horst-maas horstmaas
+Kerkrade,0928,Limburg,True,kerkrade,https://kerkrade.incijfers.nl/Dashboard,https://parkstad.incijfers.nl/dashboard?regionlevel=gemeente&regioncode=928,Parkstad in Cijfers - Beekdaelen,200,ok,kerkrade
+Landgraaf,0882,Limburg,True,landgraaf,https://landgraaf.incijfers.nl/Dashboard,https://parkstad.incijfers.nl/dashboard?regionlevel=gemeente&regioncode=882,Parkstad in Cijfers - Beekdaelen,200,ok,landgraaf
+Leudal,1640,Limburg,True,leudal,https://leudal.incijfers.nl/Dashboard,https://leudal.incijfers.nl/Dashboard,Leudal in Cijfers - Leudal,200,ok,leudal
+Maasgouw,1641,Limburg,False,maasgouw,https://maasgouw.incijfers.nl/Dashboard,https://maasgouw.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,maasgouw
+Maastricht,0935,Limburg,False,maastricht,https://maastricht.incijfers.nl/Dashboard,https://maastricht.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,maastricht
+Meerssen,0938,Limburg,False,meerssen,https://meerssen.incijfers.nl/Dashboard,https://meerssen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,meerssen
+Mook en Middelaar,0944,Limburg,False,mook,https://mook.incijfers.nl/Dashboard,https://mook.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,mook-en-middelaar mookenmiddelaar mook
+Nederweert,0946,Limburg,False,nederweert,https://nederweert.incijfers.nl/Dashboard,https://nederweert.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,nederweert
+Peel en Maas,1894,Limburg,True,peelenmaas,https://peelenmaas.incijfers.nl/Dashboard,https://peelenmaas.incijfers.nl/Dashboard,Peel en Maas in Cijfers in Cijfers - Peel en Maas,200,ok,peel-en-maas peelenmaas
+Roerdalen,1669,Limburg,False,roerdalen,https://roerdalen.incijfers.nl/Dashboard,https://roerdalen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,roerdalen
+Roermond,0957,Limburg,False,roermond,https://roermond.incijfers.nl/Dashboard,https://roermond.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,roermond
+Simpelveld,0965,Limburg,True,simpelveld,https://simpelveld.incijfers.nl/Dashboard,https://parkstad.incijfers.nl/dashboard?regionlevel=gemeente&regioncode=965,Parkstad in Cijfers - Beekdaelen,200,ok,simpelveld
+Sittard-Geleen,1883,Limburg,True,sittard-geleen,https://sittard-geleen.incijfers.nl/Dashboard,https://sittard-geleen.incijfers.nl/Dashboard,Sittard-Geleen in Cijfers - Gemeente Sittard-Geleen,200,ok,sittard-geleen
+Stein,0971,Limburg,False,stein,https://stein.incijfers.nl/Dashboard,https://stein.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,stein
+Vaals,0981,Limburg,False,vaals,https://vaals.incijfers.nl/Dashboard,https://vaals.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,vaals
+Valkenburg aan de Geul,0994,Limburg,False,valkenburggeul,https://valkenburggeul.incijfers.nl/Dashboard,https://valkenburggeul.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,valkenburg-aan-de-geul valkenburgaandegeul valkenburg valkenburg-geul valkenburggeul
+Venlo,0983,Limburg,True,venlo,https://venlo.incijfers.nl/Dashboard,https://venlo.incijfers.nl/Dashboard,Venlo in Cijfers - Gemeente Venlo,200,ok,venlo
+Venray,0984,Limburg,False,venray,https://venray.incijfers.nl/Dashboard,https://venray.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,venray
+Voerendaal,0986,Limburg,True,voerendaal,https://voerendaal.incijfers.nl/Dashboard,https://parkstad.incijfers.nl/dashboard?regionlevel=gemeente&regioncode=986,Parkstad in Cijfers - Beekdaelen,200,ok,voerendaal
+Weert,0988,Limburg,True,weert,https://weert.incijfers.nl/Dashboard,https://weert.incijfers.nl/Dashboard,Weert in Cijfers - Gemeente Weert,200,ok,weert
+'s-Hertogenbosch,0796,Noord-Brabant,True,s-hertogenbosch,https://s-hertogenbosch.incijfers.nl/Dashboard,https://s-hertogenbosch.incijfers.nl/Dashboard,s-Hertogenbosch in Cijfers,200,ok,s-hertogenbosch
+Alphen-Chaam,1723,Noord-Brabant,False,alphen,https://alphen.incijfers.nl/Dashboard,https://alphen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,alphen-chaam alphenchaam alphen
+Altena,1959,Noord-Brabant,False,altena,https://altena.incijfers.nl/Dashboard,https://altena.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,altena
+Asten,0743,Noord-Brabant,False,asten,https://asten.incijfers.nl/Dashboard,https://asten.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,asten
+Baarle-Nassau,0744,Noord-Brabant,False,baarle,https://baarle.incijfers.nl/Dashboard,https://baarle.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,baarle-nassau baarlenassau baarle
+Bergeijk,1724,Noord-Brabant,False,bergeijk,https://bergeijk.incijfers.nl/Dashboard,https://bergeijk.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,bergeijk
+Bergen op Zoom,0748,Noord-Brabant,False,bergen,https://bergen.incijfers.nl/Dashboard,https://bergen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,bergen-op-zoom bergenopzoom bergen
+Bernheze,1721,Noord-Brabant,False,bernheze,https://bernheze.incijfers.nl/Dashboard,https://bernheze.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,bernheze
+Best,0753,Noord-Brabant,False,best,https://best.incijfers.nl/Dashboard,https://best.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,best
+Bladel,1728,Noord-Brabant,False,bladel,https://bladel.incijfers.nl/Dashboard,https://bladel.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,bladel
+Boekel,0755,Noord-Brabant,False,boekel,https://boekel.incijfers.nl/Dashboard,https://boekel.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,boekel
+Boxtel,0757,Noord-Brabant,False,boxtel,https://boxtel.incijfers.nl/Dashboard,https://boxtel.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,boxtel
+Breda,0758,Noord-Brabant,True,breda,https://breda.incijfers.nl/Dashboard,https://breda.incijfers.nl/Dashboard,Breda in Cijfers - Breda,200,ok,breda
+Cranendonck,1706,Noord-Brabant,False,cranendonck,https://cranendonck.incijfers.nl/Dashboard,https://cranendonck.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,cranendonck
+Deurne,0762,Noord-Brabant,False,deurne,https://deurne.incijfers.nl/Dashboard,https://deurne.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,deurne
+Dongen,0766,Noord-Brabant,True,dongen,https://dongen.incijfers.nl/Dashboard,https://dongen.incijfers.nl/Dashboard,Dongen in Cijfers - Dongen,200,ok,dongen
+Drimmelen,1719,Noord-Brabant,False,drimmelen,https://drimmelen.incijfers.nl/Dashboard,https://drimmelen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,drimmelen
+Eersel,0770,Noord-Brabant,False,eersel,https://eersel.incijfers.nl/Dashboard,https://eersel.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,eersel
+Eindhoven,0772,Noord-Brabant,False,eindhoven,https://eindhoven.incijfers.nl/Dashboard,https://onderzoek040.nl/,Home | Onderzoek 040 | Gemeente Eindhoven,200,not_dashboard,eindhoven
+Etten-Leur,0777,Noord-Brabant,False,etten,https://etten.incijfers.nl/Dashboard,https://etten.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,etten-leur ettenleur etten
+Geertruidenberg,0779,Noord-Brabant,False,geertruidenberg,https://geertruidenberg.incijfers.nl/Dashboard,https://geertruidenberg.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,geertruidenberg
+Geldrop-Mierlo,1771,Noord-Brabant,False,geldrop,https://geldrop.incijfers.nl/Dashboard,https://geldrop.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,geldrop-mierlo geldropmierlo geldrop
+Gemert-Bakel,1652,Noord-Brabant,False,gemert,https://gemert.incijfers.nl/Dashboard,https://gemert.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,gemert-bakel gemertbakel gemert
+Gilze en Rijen,0784,Noord-Brabant,False,gilze,https://gilze.incijfers.nl/Dashboard,https://gilze.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,gilze-en-rijen gilzeenrijen gilze
+Goirle,0785,Noord-Brabant,False,goirle,https://goirle.incijfers.nl/Dashboard,https://goirle.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,goirle
+Halderberge,1655,Noord-Brabant,False,halderberge,https://halderberge.incijfers.nl/Dashboard,https://halderberge.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,halderberge
+Heeze-Leende,1658,Noord-Brabant,False,heeze,https://heeze.incijfers.nl/Dashboard,https://heeze.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,heeze-leende heezeleende heeze
+Helmond,0794,Noord-Brabant,False,helmond,https://helmond.incijfers.nl/Dashboard,https://helmond.incijfers.nl/home?ReturnUrl=%2fDashboard,Home | Kennisagenda Helmond,200,not_dashboard,helmond
+Heusden,0797,Noord-Brabant,True,heusden,https://heusden.incijfers.nl/Dashboard,https://heusden.incijfers.nl/Dashboard,Heusden in Cijfers - Heusden,200,ok,heusden
+Hilvarenbeek,0798,Noord-Brabant,False,hilvarenbeek,https://hilvarenbeek.incijfers.nl/Dashboard,https://hilvarenbeek.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,hilvarenbeek
+Laarbeek,1659,Noord-Brabant,False,laarbeek,https://laarbeek.incijfers.nl/Dashboard,https://laarbeek.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,laarbeek
+Land van Cuijk,1982,Noord-Brabant,False,land,https://land.incijfers.nl/Dashboard,https://land.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,land-van-cuijk landvancuijk land
+Loon op Zand,0809,Noord-Brabant,False,loon,https://loon.incijfers.nl/Dashboard,https://loon.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,loon-op-zand loonopzand loon
+Maashorst,1991,Noord-Brabant,False,maashorst,https://maashorst.incijfers.nl/Dashboard,https://maashorst.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,maashorst
+Meierijstad,1948,Noord-Brabant,False,meierijstad,https://meierijstad.incijfers.nl/Dashboard,https://meierijstad.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,meierijstad
+Moerdijk,1709,Noord-Brabant,True,moerdijk,https://moerdijk.incijfers.nl/Dashboard,https://moerdijk.incijfers.nl/Dashboard,Moerdijk in Cijfers - Gemeente Moerdijk,200,ok,moerdijk
+Nuenen c.a.,0820,Noord-Brabant,False,nuenen,https://nuenen.incijfers.nl/Dashboard,https://nuenen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,nuenen-c-a nuenenca nuenen
+Oirschot,0823,Noord-Brabant,False,oirschot,https://oirschot.incijfers.nl/Dashboard,https://oirschot.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,oirschot
+Oisterwijk,0824,Noord-Brabant,False,oisterwijk,https://oisterwijk.incijfers.nl/Dashboard,https://oisterwijk.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,oisterwijk
+Oosterhout,0826,Noord-Brabant,True,oosterhout,https://oosterhout.incijfers.nl/Dashboard,https://overbetuwe.incijfers.nl/dashboard/gebied-in-cijfers?regionlevel=kern_dorp&regioncode=1734_7,Overbetuwe in Cijfers - Gebied in cijfers,200,ok,oosterhout
+Oss,0828,Noord-Brabant,True,oss,https://oss.incijfers.nl/Dashboard,https://oss.incijfers.nl/Dashboard,Oss in Cijfers - Gemeente Oss,200,ok,oss
+Reusel-De Mierden,1667,Noord-Brabant,False,reuselmierden,https://reuselmierden.incijfers.nl/Dashboard,https://reuselmierden.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,reusel-de-mierden reuseldemierden reusel reusel-mierden reuselmierden
+Roosendaal,1674,Noord-Brabant,False,roosendaal,https://roosendaal.incijfers.nl/Dashboard,https://roosendaal.incijfers.nl/home?ReturnUrl=%2fDashboard,Home | Roosendaal in Cijfers - Gemeente Roosendaal,200,not_dashboard,roosendaal
+Rucphen,0840,Noord-Brabant,False,rucphen,https://rucphen.incijfers.nl/Dashboard,https://rucphen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,rucphen
+Sint-Michielsgestel,0845,Noord-Brabant,False,sintmichielsgestel,https://sintmichielsgestel.incijfers.nl/Dashboard,https://sintmichielsgestel.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,sint-michielsgestel sintmichielsgestel
+Someren,0847,Noord-Brabant,False,someren,https://someren.incijfers.nl/Dashboard,https://someren.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,someren
+Son en Breugel,0848,Noord-Brabant,False,sonenbreugel,https://sonenbreugel.incijfers.nl/Dashboard,https://sonenbreugel.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,son-en-breugel sonenbreugel
+Steenbergen,0851,Noord-Brabant,False,steenbergen,https://steenbergen.incijfers.nl/Dashboard,https://steenbergen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,steenbergen
+Tilburg,0855,Noord-Brabant,True,tilburg,https://tilburg.incijfers.nl/Dashboard,https://tilburg.incijfers.nl/Dashboard,Tilburg in Cijfers - Gemeente Tilburg,200,ok,tilburg
+Valkenswaard,0858,Noord-Brabant,False,valkenswaard,https://valkenswaard.incijfers.nl/Dashboard,https://valkenswaard.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,valkenswaard
+Veldhoven,0861,Noord-Brabant,False,veldhoven,https://veldhoven.incijfers.nl/Dashboard,https://veldhoven.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,veldhoven
+Vught,0865,Noord-Brabant,False,vught,https://vught.incijfers.nl/Dashboard,https://vught.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,vught
+Waalre,0866,Noord-Brabant,False,waalre,https://waalre.incijfers.nl/Dashboard,https://waalre.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,waalre
+Waalwijk,0867,Noord-Brabant,True,waalwijk,https://waalwijk.incijfers.nl/Dashboard,https://waalwijk.incijfers.nl/Dashboard,Waalwijk in Cijfers - Gemeente Waalwijk,200,ok,waalwijk
+Woensdrecht,0873,Noord-Brabant,True,woensdrecht,https://woensdrecht.incijfers.nl/Dashboard,https://woensdrecht.incijfers.nl/Dashboard,Woensdrecht in Cijfers - Gemeente Woensdrecht,200,ok,woensdrecht
+Zundert,0879,Noord-Brabant,False,zundert,https://zundert.incijfers.nl/Dashboard,https://zundert.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,zundert
+Aalsmeer,0358,Noord-Holland,False,aalsmeer,https://aalsmeer.incijfers.nl/Dashboard,https://aalsmeer.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,aalsmeer
+Alkmaar,0361,Noord-Holland,True,alkmaar,https://alkmaar.incijfers.nl/Dashboard,https://alkmaar.incijfers.nl/Dashboard,Alkmaar in Cijfers - Alkmaar,200,ok,alkmaar
+Amstelveen,0362,Noord-Holland,True,amstelveen,https://amstelveen.incijfers.nl/Dashboard,https://amstelveen.incijfers.nl/Dashboard,Amstelveen in Cijfers - Amstelveen,200,ok,amstelveen
+Amsterdam,0363,Noord-Holland,True,amsterdam,https://amsterdam.incijfers.nl/Dashboard,https://amsterdam.incijfers.nl/Dashboard,Amsterdam in Cijfers - Amsterdam,200,ok,amsterdam
+Bergen,0373,Noord-Holland,False,bergen,https://bergen.incijfers.nl/Dashboard,https://bergen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,bergen
+Beverwijk,0375,Noord-Holland,True,beverwijk,https://beverwijk.incijfers.nl/Dashboard,https://ijmond.incijfers.nl/dashboard?regionlevel=gemeente&regioncode=375,IJmond in Cijfers - Beverwijk,200,ok,beverwijk
+Blaricum,0376,Noord-Holland,False,blaricum,https://blaricum.incijfers.nl/Dashboard,https://blaricum.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,blaricum
+Bloemendaal,0377,Noord-Holland,False,bloemendaal,https://bloemendaal.incijfers.nl/Dashboard,https://bloemendaal.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,bloemendaal
+Castricum,0383,Noord-Holland,False,castricum,https://castricum.incijfers.nl/Dashboard,https://castricum.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,castricum
+Den Helder,0400,Noord-Holland,True,denhelder,https://denhelder.incijfers.nl/Dashboard,https://denhelder.incijfers.nl/Dashboard,Den Helder in Cijfers - Den Helder,200,ok,den-helder denhelder
+Diemen,0384,Noord-Holland,False,diemen,https://diemen.incijfers.nl/Dashboard,https://diemen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,diemen
+Dijk en Waard,1980,Noord-Holland,True,dijkenwaard,https://dijkenwaard.incijfers.nl/Dashboard,https://dijkenwaard.incijfers.nl/Dashboard,Dijk en Waard in Cijfers - Dijk en Waard,200,ok,dijk-en-waard dijkenwaard
+Drechterland,0498,Noord-Holland,False,drechterland,https://drechterland.incijfers.nl/Dashboard,https://drechterland.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,drechterland
+Edam-Volendam,0385,Noord-Holland,False,edam,https://edam.incijfers.nl/Dashboard,https://edam.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,edam-volendam edamvolendam edam
+Enkhuizen,0388,Noord-Holland,False,enkhuizen,https://enkhuizen.incijfers.nl/Dashboard,https://enkhuizen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,enkhuizen
+Gooise Meren,1942,Noord-Holland,True,gooisemeren,https://gooisemeren.incijfers.nl/Dashboard,https://gooisemeren.incijfers.nl/Dashboard,Gooise Meren in Cijfers - Gooise Meren,200,ok,gooise-meren gooisemeren
+Haarlem,0392,Noord-Holland,False,haarlem,https://haarlem.incijfers.nl/Dashboard,https://haarlem.incijfers.nl/mosaic/haarlem-in-cijfers---dashboard,Haarlem in cijfers - Dashboard - Centrum,200,not_dashboard,haarlem
+Haarlemmermeer,0394,Noord-Holland,False,haarlemmermeer,https://haarlemmermeer.incijfers.nl/Dashboard,https://haarlemmermeer.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,haarlemmermeer
+Heemskerk,0396,Noord-Holland,True,heemskerk,https://heemskerk.incijfers.nl/Dashboard,https://ijmond.incijfers.nl/dashboard?regionlevel=gemeente&regioncode=396,IJmond in Cijfers - Beverwijk,200,ok,heemskerk
+Heemstede,0397,Noord-Holland,False,heemstede,https://heemstede.incijfers.nl/Dashboard,https://heemstede.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,heemstede
+Heiloo,0399,Noord-Holland,False,heiloo,https://heiloo.incijfers.nl/Dashboard,https://heiloo.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,heiloo
+Hilversum,0402,Noord-Holland,True,hilversum,https://hilversum.incijfers.nl/Dashboard,https://hilversum.incijfers.nl/Dashboard,Hilversum in Cijfers - Hilversum,200,ok,hilversum
+Hollands Kroon,1911,Noord-Holland,True,hollandskroon,https://hollandskroon.incijfers.nl/Dashboard,https://hollandskroon.incijfers.nl/Dashboard,Hollands Kroon in Cijfers - Hollands Kroon,200,ok,hollands-kroon hollandskroon
+Hoorn,0405,Noord-Holland,False,hoorn,https://hoorn.incijfers.nl/Dashboard,https://hoorn.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,hoorn
+Huizen,0406,Noord-Holland,False,huizen,https://huizen.incijfers.nl/Dashboard,https://huizen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,huizen
+Koggenland,1598,Noord-Holland,False,koggenland,https://koggenland.incijfers.nl/Dashboard,https://koggenland.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,koggenland
+Landsmeer,0415,Noord-Holland,False,landsmeer,https://landsmeer.incijfers.nl/Dashboard,https://landsmeer.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,landsmeer
+Laren,0417,Noord-Holland,False,laren,https://laren.incijfers.nl/Dashboard,https://laren.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,laren
+Medemblik,0420,Noord-Holland,False,medemblik,https://medemblik.incijfers.nl/Dashboard,https://medemblik.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,medemblik
+Oostzaan,0431,Noord-Holland,False,oostzaan,https://oostzaan.incijfers.nl/Dashboard,https://oostzaan.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,oostzaan
+Opmeer,0432,Noord-Holland,False,opmeer,https://opmeer.incijfers.nl/Dashboard,https://opmeer.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,opmeer
+Ouder-Amstel,0437,Noord-Holland,False,ouder,https://ouder.incijfers.nl/Dashboard,https://ouder.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,ouder-amstel ouderamstel ouder
+Purmerend,0439,Noord-Holland,False,purmerend,https://purmerend.incijfers.nl/Dashboard,https://purmerend.incijfers.nl/mosaic/mosaic,Mosaic - Gemeente Purmerend,200,not_dashboard,purmerend
+Schagen,0441,Noord-Holland,True,schagen,https://schagen.incijfers.nl/Dashboard,https://schagen.incijfers.nl/Dashboard,Schagen in Cijfers - Gemeente Schagen,200,ok,schagen
+Stede Broec,0532,Noord-Holland,False,stede,https://stede.incijfers.nl/Dashboard,https://stede.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,stede-broec stedebroec stede
+Texel,0448,Noord-Holland,True,texel,https://texel.incijfers.nl/Dashboard,https://texel.incijfers.nl/Dashboard,Texel in Cijfers - Gemeente Texel,200,ok,texel
+Uitgeest,0450,Noord-Holland,False,uitgeest,https://uitgeest.incijfers.nl/Dashboard,https://uitgeest.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,uitgeest
+Uithoorn,0451,Noord-Holland,False,uithoorn,https://uithoorn.incijfers.nl/Dashboard,https://uithoorn.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,uithoorn
+Velsen,0453,Noord-Holland,False,velsen,https://velsen.incijfers.nl/Dashboard,https://velsen.incijfers.nl/dashboard/wijkmonitor-leefbaarheid,Wijkmonitor Leefbaarheid - Velsen-Zuid en Driehuis (0),200,not_dashboard,velsen
+Waterland,0852,Noord-Holland,False,waterland,https://waterland.incijfers.nl/Dashboard,https://waterland.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,waterland
+Wijdemeren,1696,Noord-Holland,False,wijdemeren,https://wijdemeren.incijfers.nl/Dashboard,https://wijdemeren.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,wijdemeren
+Wormerland,0880,Noord-Holland,False,wormerland,https://wormerland.incijfers.nl/Dashboard,https://wormerland.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,wormerland
+Zaanstad,0479,Noord-Holland,False,zaanstad,https://zaanstad.incijfers.nl/Dashboard,https://zaanstad.incijfers.nl/dashboard/zaanpeiling,Zaanpeiling - Zaanstad,200,not_dashboard,zaanstad
+Zandvoort,0473,Noord-Holland,True,zandvoort,https://zandvoort.incijfers.nl/Dashboard,https://zandvoort.incijfers.nl/Dashboard,Zandvoort in Cijfers - Zandvoort,200,ok,zandvoort
+Almelo,0141,Overijssel,True,almelo,https://almelo.incijfers.nl/Dashboard,https://almelo.incijfers.nl/Dashboard,Almelo in Cijfers - Almelo,200,ok,almelo
+Borne,0147,Overijssel,False,borne,https://borne.incijfers.nl/Dashboard,https://borne.incijfers.nl/dashboard/login.aspx?returnUrl=%2FDashboard,Inloggen,200,not_dashboard,borne
+Dalfsen,0148,Overijssel,False,dalfsen,https://dalfsen.incijfers.nl/Dashboard,https://dalfsen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,dalfsen
+Deventer,0150,Overijssel,False,deventer,https://deventer.incijfers.nl/Dashboard,https://deventer.incijfers.nl/mosaic/thema,Thema - Deventer,200,not_dashboard,deventer
+Dinkelland,1774,Overijssel,True,dinkelland,https://dinkelland.incijfers.nl/Dashboard,https://noaberkracht.incijfers.nl/dashboard?regionlevel=gemeente&regioncode=1774,Noaberkracht Dinkelland-Tubbergen in Cijfers - Dinkelland,200,ok,dinkelland
+Enschede,0153,Overijssel,True,enschede,https://enschede.incijfers.nl/Dashboard,https://enschede.incijfers.nl/Dashboard,Enschede in Cijfers - Enschede,200,ok,enschede
+Haaksbergen,0158,Overijssel,False,haaksbergen,https://haaksbergen.incijfers.nl/Dashboard,https://haaksbergen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,haaksbergen
+Hardenberg,0160,Overijssel,False,hardenberg,https://hardenberg.incijfers.nl/Dashboard,https://hardenberg.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,hardenberg
+Hellendoorn,0163,Overijssel,False,hellendoorn,https://hellendoorn.incijfers.nl/Dashboard,https://hellendoorn.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,hellendoorn
+Hengelo,0164,Overijssel,False,hengelo,https://hengelo.incijfers.nl/Dashboard,https://hengelo.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,hengelo
+Hof van Twente,1735,Overijssel,False,hofvantwente,https://hofvantwente.incijfers.nl/Dashboard,https://hofvantwente.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,hof-van-twente hofvantwente
+Kampen,0166,Overijssel,False,kampen,https://kampen.incijfers.nl/Dashboard,https://kampen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,kampen
+Losser,0168,Overijssel,False,losser,https://losser.incijfers.nl/Dashboard,https://losser.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,losser
+Oldenzaal,0173,Overijssel,False,oldenzaal,https://oldenzaal.incijfers.nl/Dashboard,https://oldenzaal.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,oldenzaal
+Olst-Wijhe,1773,Overijssel,False,olst,https://olst.incijfers.nl/Dashboard,https://olst.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,olst-wijhe olstwijhe olst
+Ommen,0175,Overijssel,False,ommen,https://ommen.incijfers.nl/Dashboard,https://ommen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,ommen
+Raalte,0177,Overijssel,False,raalte,https://raalte.incijfers.nl/Dashboard,https://raalte.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,raalte
+Rijssen-Holten,1742,Overijssel,True,rijssen-holten,https://rijssen-holten.incijfers.nl/Dashboard,https://rijssen-holten.incijfers.nl/Dashboard,Rijssen-Holten in Cijfers - Rijssen-Holten,200,ok,rijssen-holten
+Staphorst,0180,Overijssel,False,staphorst,https://staphorst.incijfers.nl/Dashboard,https://staphorst.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,staphorst
+Steenwijkerland,1708,Overijssel,False,steenwijkerland,https://steenwijkerland.incijfers.nl/Dashboard,https://steenwijkerland.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,steenwijkerland
+Tubbergen,0183,Overijssel,True,tubbergen,https://tubbergen.incijfers.nl/Dashboard,https://noaberkracht.incijfers.nl/dashboard?regionlevel=gemeente&regioncode=183,Noaberkracht Dinkelland-Tubbergen in Cijfers - Dinkelland,200,ok,tubbergen
+Twenterand,1700,Overijssel,False,twenterand,https://twenterand.incijfers.nl/Dashboard,https://twenterand.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,twenterand
+Wierden,0189,Overijssel,False,wierden,https://wierden.incijfers.nl/Dashboard,https://wierden.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,wierden
+Zwartewaterland,1896,Overijssel,False,zwartewaterland,https://zwartewaterland.incijfers.nl/Dashboard,https://zwartewaterland.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,zwartewaterland
+Zwolle,0193,Overijssel,False,zwolle,https://zwolle.incijfers.nl/Dashboard,https://cijfersoverzwolle.nl/dashboard/dashboard/migratie,Dashboard - Migratie - Zwolle,200,not_dashboard,zwolle
+Amersfoort,0307,Utrecht,False,amersfoort,https://amersfoort.incijfers.nl/Dashboard,https://amersfoort.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,amersfoort
+Baarn,0308,Utrecht,False,baarn,https://baarn.incijfers.nl/Dashboard,https://baarn.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,baarn
+Bunnik,0312,Utrecht,False,bunnik,https://bunnik.incijfers.nl/Dashboard,https://bunnik.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,bunnik
+Bunschoten,0313,Utrecht,False,bunschoten,https://bunschoten.incijfers.nl/Dashboard,https://bunschoten.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,bunschoten
+De Bilt,0310,Utrecht,False,bilt,https://bilt.incijfers.nl/Dashboard,https://bilt.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,de-bilt debilt bilt
+De Ronde Venen,0736,Utrecht,False,rondevenen,https://rondevenen.incijfers.nl/Dashboard,https://rondevenen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,de-ronde-venen derondevenen ronde-venen rondevenen
+Eemnes,0317,Utrecht,False,eemnes,https://eemnes.incijfers.nl/Dashboard,https://eemnes.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,eemnes
+Houten,0321,Utrecht,False,houten,https://houten.incijfers.nl/Dashboard,https://houten.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,houten
+IJsselstein,0353,Utrecht,False,ijsselstein,https://ijsselstein.incijfers.nl/Dashboard,https://ijsselstein.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,ijsselstein
+Leusden,0327,Utrecht,False,leusden,https://leusden.incijfers.nl/Dashboard,https://leusden.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,leusden
+Lopik,0331,Utrecht,False,lopik,https://lopik.incijfers.nl/Dashboard,https://lopik.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,lopik
+Montfoort,0335,Utrecht,False,montfoort,https://montfoort.incijfers.nl/Dashboard,https://montfoort.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,montfoort
+Nieuwegein,0356,Utrecht,False,nieuwegein,https://nieuwegein.incijfers.nl/Dashboard,https://nieuwegein.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,nieuwegein
+Oudewater,0589,Utrecht,False,oudewater,https://oudewater.incijfers.nl/Dashboard,https://oudewater.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,oudewater
+Renswoude,0339,Utrecht,False,renswoude,https://renswoude.incijfers.nl/Dashboard,https://renswoude.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,renswoude
+Rhenen,0340,Utrecht,False,rhenen,https://rhenen.incijfers.nl/Dashboard,https://rhenen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,rhenen
+Soest,0342,Utrecht,False,soest,https://soest.incijfers.nl/Dashboard,https://soest.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,soest
+Stichtse Vecht,1904,Utrecht,False,stichtse,https://stichtse.incijfers.nl/Dashboard,https://stichtse.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,stichtse-vecht stichtsevecht stichtse
+Utrecht,0344,Utrecht,False,utrecht,https://utrecht.incijfers.nl/Dashboard,https://utrecht.incijfers.nl/mosaic/thema,thema - West,200,not_dashboard,utrecht
+Utrechtse Heuvelrug,1581,Utrecht,False,utrechtse,https://utrechtse.incijfers.nl/Dashboard,https://utrechtse.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,utrechtse-heuvelrug utrechtseheuvelrug utrechtse
+Veenendaal,0345,Utrecht,False,veenendaal,https://veenendaal.incijfers.nl/Dashboard,https://veenendaal.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,veenendaal
+Vijfheerenlanden,1961,Utrecht,False,vijfheerenlanden,https://vijfheerenlanden.incijfers.nl/Dashboard,https://vijfheerenlanden.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,vijfheerenlanden
+Wijk bij Duurstede,0352,Utrecht,False,wijk,https://wijk.incijfers.nl/Dashboard,https://wijk.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,wijk-bij-duurstede wijkbijduurstede wijk
+Woerden,0632,Utrecht,False,woerden,https://woerden.incijfers.nl/Dashboard,https://woerden.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,woerden
+Woudenberg,0351,Utrecht,False,woudenberg,https://woudenberg.incijfers.nl/Dashboard,https://woudenberg.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,woudenberg
+Zeist,0355,Utrecht,False,zeist,https://zeist.incijfers.nl/Dashboard,https://zeist.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,zeist
+Borsele,0654,Zeeland,False,borsele,https://borsele.incijfers.nl/Dashboard,https://borsele.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,borsele
+Goes,0664,Zeeland,False,goes,https://goes.incijfers.nl/Dashboard,https://goes.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,goes
+Hulst,0677,Zeeland,False,hulst,https://hulst.incijfers.nl/Dashboard,https://hulst.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,hulst
+Kapelle,0678,Zeeland,False,kapelle,https://kapelle.incijfers.nl/Dashboard,https://kapelle.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,kapelle
+Middelburg,0687,Zeeland,False,middelburg,https://middelburg.incijfers.nl/Dashboard,https://middelburg.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,middelburg
+Noord-Beveland,1695,Zeeland,False,noord,https://noord.incijfers.nl/Dashboard,https://noord.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,noord-beveland noordbeveland noord
+Reimerswaal,0703,Zeeland,True,reimerswaal,https://reimerswaal.incijfers.nl/Dashboard,https://reimerswaal.incijfers.nl/Dashboard,Reimerswaal in Cijfers - Reimerswaal,200,ok,reimerswaal
+Schouwen-Duiveland,1676,Zeeland,False,schouwen,https://schouwen.incijfers.nl/Dashboard,https://schouwen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,schouwen-duiveland schouwenduiveland schouwen
+Sluis,1714,Zeeland,False,sluis,https://sluis.incijfers.nl/Dashboard,https://sluis.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,sluis
+Terneuzen,0715,Zeeland,True,terneuzen,https://terneuzen.incijfers.nl/Dashboard,https://terneuzen.incijfers.nl/Dashboard,Terneuzen in Cijfers - Terneuzen,200,ok,terneuzen
+Tholen,0716,Zeeland,False,tholen,https://tholen.incijfers.nl/Dashboard,https://tholen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,tholen
+Veere,0717,Zeeland,False,veere,https://veere.incijfers.nl/Dashboard,https://veere.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,veere
+Vlissingen,0718,Zeeland,False,vlissingen,https://vlissingen.incijfers.nl/Dashboard,https://vlissingen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,vlissingen
+Alblasserdam,0482,Zuid-Holland,False,alblasserdam,https://alblasserdam.incijfers.nl/Dashboard,https://alblasserdam.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,alblasserdam
+Albrandswaard,0613,Zuid-Holland,False,albrandswaard,https://albrandswaard.incijfers.nl/Dashboard,https://albrandswaard.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,albrandswaard
+Alphen aan den Rijn,0484,Zuid-Holland,True,alphenaandenrijn,https://alphenaandenrijn.incijfers.nl/Dashboard,https://alphenaandenrijn.incijfers.nl/Dashboard,Alphen aan den Rijn in Cijfers - Alphen aan den Rijn,200,ok,alphen-aan-den-rijn alphenaandenrijn
+Barendrecht,0489,Zuid-Holland,False,barendrecht,https://barendrecht.incijfers.nl/Dashboard,https://barendrecht.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,barendrecht
+Bodegraven-Reeuwijk,1901,Zuid-Holland,False,bodegraven,https://bodegraven.incijfers.nl/Dashboard,https://bodegraven.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,bodegraven-reeuwijk bodegravenreeuwijk bodegraven
+Capelle aan den IJssel,0502,Zuid-Holland,True,capelle,https://capelle.incijfers.nl/Dashboard,https://capelle.incijfers.nl/Dashboard,Capelle aan den IJssel in Cijfers - Capelle aan den IJssel,200,ok,capelle
+Delft,0503,Zuid-Holland,False,delft,https://delft.incijfers.nl/Dashboard,https://delft.incijfers.nl/mosaic/dashboard-kerncijfers,Dashboard Kerncijfers - Binnenstad,200,not_dashboard,delft
+Den Haag,0518,Zuid-Holland,False,haag,https://haag.incijfers.nl/Dashboard,https://haag.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,den-haag denhaag haag
+Dordrecht,0505,Zuid-Holland,False,dordrecht,https://dordrecht.incijfers.nl/Dashboard,https://dordrecht.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,dordrecht
+Goeree-Overflakkee,1924,Zuid-Holland,False,goeree,https://goeree.incijfers.nl/Dashboard,https://goeree.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,goeree-overflakkee goereeoverflakkee goeree
+Gorinchem,0512,Zuid-Holland,False,gorinchem,https://gorinchem.incijfers.nl/Dashboard,https://gorinchem.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,gorinchem
+Gouda,0513,Zuid-Holland,False,gouda,https://gouda.incijfers.nl/Dashboard,https://gouda.incijfers.nl/Dashboard,Pagina niet gevonden - 404,404,404,gouda
+Hardinxveld-Giessendam,0523,Zuid-Holland,False,hardinxveld,https://hardinxveld.incijfers.nl/Dashboard,https://hardinxveld.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,hardinxveld-giessendam hardinxveldgiessendam hardinxveld
+Hendrik-Ido-Ambacht,0531,Zuid-Holland,False,hendrik,https://hendrik.incijfers.nl/Dashboard,https://hendrik.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,hendrik-ido-ambacht hendrikidoambacht hendrik
+Hillegom,0534,Zuid-Holland,True,hillegom,https://hillegom.incijfers.nl/Dashboard,https://hlt.incijfers.nl/dashboard?regionlevel=gemeente&regioncode=534,HLT in Cijfers - Hillegom,200,ok,hillegom
+Hoeksche Waard,1963,Zuid-Holland,True,hoekschewaard,https://hoekschewaard.incijfers.nl/Dashboard,https://hoekschewaard.incijfers.nl/Dashboard,Hoeksche Waard in Cijfers - Hoeksche Waard,200,ok,hoeksche-waard hoekschewaard
+Kaag en Braassem,1884,Zuid-Holland,False,kaag,https://kaag.incijfers.nl/Dashboard,https://kaag.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,kaag-en-braassem kaagenbraassem kaag
+Katwijk,0537,Zuid-Holland,False,katwijk,https://katwijk.incijfers.nl/Dashboard,https://katwijk.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,katwijk
+Krimpen aan den IJssel,0542,Zuid-Holland,False,krimpenijssel,https://krimpenijssel.incijfers.nl/Dashboard,https://krimpenijssel.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,krimpen-aan-den-ijssel krimpenaandenijssel krimpen krimpen-ijssel krimpenijssel
+Krimpenerwaard,1931,Zuid-Holland,False,krimpenerwaard,https://krimpenerwaard.incijfers.nl/Dashboard,https://krimpenerwaard.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,krimpenerwaard
+Lansingerland,1621,Zuid-Holland,False,lansingerland,https://lansingerland.incijfers.nl/Dashboard,https://lansingerland.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,lansingerland
+Leiden,0546,Zuid-Holland,False,leiden,https://leiden.incijfers.nl/Dashboard,https://leiden.incijfers.nl/mosaic/dashboard,Dashboard - Binnenstad-Zuid,200,not_dashboard,leiden
+Leiderdorp,0547,Zuid-Holland,False,leiderdorp,https://leiderdorp.incijfers.nl/Dashboard,https://leiderdorp.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,leiderdorp
+Leidschendam-Voorburg,1916,Zuid-Holland,False,leidschendam,https://leidschendam.incijfers.nl/Dashboard,https://leidschendam.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,leidschendam-voorburg leidschendamvoorburg leidschendam
+Lisse,0553,Zuid-Holland,True,lisse,https://lisse.incijfers.nl/Dashboard,https://hlt.incijfers.nl/dashboard?regionlevel=gemeente&regioncode=553,HLT in Cijfers - Hillegom,200,ok,lisse
+Maassluis,0556,Zuid-Holland,True,maassluis,https://maassluis.incijfers.nl/Dashboard,https://maassluis-schiedam.incijfers.nl/dashboard?regionlevel=gemeente&regioncode=556,Maassluis-Schiedam in Cijfers - Maassluis,200,ok,maassluis
+Midden-Delfland,1842,Zuid-Holland,False,midden,https://midden.incijfers.nl/Dashboard,https://midden.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,midden-delfland middendelfland midden
+Molenlanden,1978,Zuid-Holland,False,molenlanden,https://molenlanden.incijfers.nl/Dashboard,https://molenlanden.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,molenlanden
+Nieuwkoop,0569,Zuid-Holland,True,nieuwkoop,https://nieuwkoop.incijfers.nl/Dashboard,https://nieuwkoop.incijfers.nl/Dashboard,Nieuwkoop in Cijfers - Nieuwkoop,200,ok,nieuwkoop
+Nissewaard,1930,Zuid-Holland,False,nissewaard,https://nissewaard.incijfers.nl/Dashboard,https://nissewaard.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,nissewaard
+Noordwijk,0575,Zuid-Holland,True,noordwijk,https://noordwijk.incijfers.nl/Dashboard,https://noordwijk.incijfers.nl/Dashboard,Noordwijk in Cijfers - Noordwijk,200,ok,noordwijk
+Oegstgeest,0579,Zuid-Holland,False,oegstgeest,https://oegstgeest.incijfers.nl/Dashboard,https://oegstgeest.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,oegstgeest
+Papendrecht,0590,Zuid-Holland,False,papendrecht,https://papendrecht.incijfers.nl/Dashboard,https://papendrecht.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,papendrecht
+Pijnacker-Nootdorp,1926,Zuid-Holland,True,pijnacker-nootdorp,https://pijnacker-nootdorp.incijfers.nl/Dashboard,https://pijnacker-nootdorp.incijfers.nl/Dashboard,Pijnacker-Nootdorp in Cijfers - Gemeente Pijnacker-Nootdorp,200,ok,pijnacker-nootdorp
+Ridderkerk,0597,Zuid-Holland,False,ridderkerk,https://ridderkerk.incijfers.nl/Dashboard,https://ridderkerk.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,ridderkerk
+Rijswijk,0603,Zuid-Holland,True,rijswijk,https://rijswijk.incijfers.nl/Dashboard,https://rijswijk.incijfers.nl/Dashboard,Rijswijk in Cijfers - Rijswijk,200,ok,rijswijk
+Rotterdam,0599,Zuid-Holland,False,rotterdam,https://rotterdam.incijfers.nl/Dashboard,https://onderzoek010.nl/mosaic/onderzoek010,Onderzoek010 - Afrikaanderwijk,200,not_dashboard,rotterdam
+Schiedam,0606,Zuid-Holland,True,schiedam,https://schiedam.incijfers.nl/Dashboard,https://maassluis-schiedam.incijfers.nl/dashboard?regionlevel=gemeente&regioncode=606,Maassluis-Schiedam in Cijfers - Maassluis,200,ok,schiedam
+Sliedrecht,0610,Zuid-Holland,False,sliedrecht,https://sliedrecht.incijfers.nl/Dashboard,https://sliedrecht.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,sliedrecht
+Teylingen,1525,Zuid-Holland,True,teylingen,https://teylingen.incijfers.nl/Dashboard,https://hlt.incijfers.nl/dashboard?regionlevel=gemeente&regioncode=1525,HLT in Cijfers - Hillegom,200,ok,teylingen
+Vlaardingen,0622,Zuid-Holland,False,vlaardingen,https://vlaardingen.incijfers.nl/Dashboard,https://vlaardingen.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,vlaardingen
+Voorne aan Zee,1992,Zuid-Holland,False,voornezee,https://voornezee.incijfers.nl/Dashboard,https://voornezee.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,voorne-aan-zee voorneaanzee voorne voorne-zee voornezee
+Voorschoten,0626,Zuid-Holland,True,voorschoten,https://voorschoten.incijfers.nl/Dashboard,https://voorschoten.incijfers.nl/Dashboard,Voorschoten in Cijfers - Gemeente Voorschoten,200,ok,voorschoten
+Waddinxveen,0627,Zuid-Holland,True,waddinxveen,https://waddinxveen.incijfers.nl/Dashboard,https://waddinxveen.incijfers.nl/Dashboard,Waddinxveen in Cijfers - Gemeente Waddinxveen,200,ok,waddinxveen
+Wassenaar,0629,Zuid-Holland,True,wassenaar,https://wassenaar.incijfers.nl/Dashboard,https://wassenaar.incijfers.nl/Dashboard,Wassenaar in Cijfers - Wassenaar,200,ok,wassenaar
+Westland,1783,Zuid-Holland,True,westland,https://westland.incijfers.nl/Dashboard,https://westland.incijfers.nl/Dashboard,Westland in Cijfers - Gemeente Westland,200,ok,westland
+Zoetermeer,0637,Zuid-Holland,False,zoetermeer,https://zoetermeer.incijfers.nl/Dashboard,https://zoetermeer.incijfers.nl/mosaic/zoetermeer-in-cijfers,Zoetermeer in Cijfers - Dorp,200,not_dashboard,zoetermeer
+Zoeterwoude,0638,Zuid-Holland,False,zoeterwoude,https://zoeterwoude.incijfers.nl/Dashboard,https://zoeterwoude.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,zoeterwoude
+Zuidplas,1892,Zuid-Holland,False,zuidplas,https://zuidplas.incijfers.nl/Dashboard,https://zuidplas.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,zuidplas
+Zwijndrecht,0642,Zuid-Holland,False,zwijndrecht,https://zwijndrecht.incijfers.nl/Dashboard,https://zwijndrecht.incijfers.nl/dashboard/AvailableDomains.aspx,Gemeente in Cijfers,200,available_domains,zwijndrecht
